@@ -1,0 +1,5706 @@
+{
+  "Two Sum": [
+    "Array",
+    "Hash Table"
+  ],
+  "Add Two Numbers": [
+    "Linked List",
+    "Math",
+    "Recursion"
+  ],
+  "Longest Substring Without Repeating Characters": [
+    "Hash Table",
+    "Two Pointers",
+    "String",
+    "Sliding Window"
+  ],
+  "Median of Two Sorted Arrays": [
+    "Array",
+    "Binary Search",
+    "Divide and Conquer"
+  ],
+  "Longest Palindromic Substring": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "ZigZag Conversion": [
+    "String"
+  ],
+  "Reverse Integer": [
+    "Math"
+  ],
+  "String to Integer (atoi)": [
+    "Math",
+    "String"
+  ],
+  "Palindrome Number": [
+    "Math"
+  ],
+  "Regular Expression Matching": [
+    "String",
+    "Dynamic Programming",
+    "Backtracking"
+  ],
+  "Container With Most Water": [
+    "Array",
+    "Two Pointers"
+  ],
+  "Integer to Roman": [
+    "Math",
+    "String"
+  ],
+  "Roman to Integer": [
+    "Math",
+    "String"
+  ],
+  "Longest Common Prefix": [
+    "String"
+  ],
+  "3Sum": [
+    "Array",
+    "Two Pointers"
+  ],
+  "3Sum Closest": [
+    "Array",
+    "Two Pointers"
+  ],
+  "Letter Combinations of a Phone Number": [
+    "String",
+    "Backtracking",
+    "Depth-first Search",
+    "Recursion"
+  ],
+  "4Sum": [
+    "Array",
+    "Hash Table",
+    "Two Pointers"
+  ],
+  "Remove Nth Node From End of List": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "Valid Parentheses": [
+    "String",
+    "Stack"
+  ],
+  "Merge Two Sorted Lists": [
+    "Linked List",
+    "Recursion"
+  ],
+  "Generate Parentheses": [
+    "String",
+    "Backtracking"
+  ],
+  "Merge k Sorted Lists": [
+    "Linked List",
+    "Divide and Conquer",
+    "Heap"
+  ],
+  "Swap Nodes in Pairs": [
+    "Linked List",
+    "Recursion"
+  ],
+  "Reverse Nodes in k-Group": [
+    "Linked List"
+  ],
+  "Remove Duplicates from Sorted Array": [
+    "Array",
+    "Two Pointers"
+  ],
+  "Remove Element": [
+    "Array",
+    "Two Pointers"
+  ],
+  "Implement strStr()": [
+    "Two Pointers",
+    "String"
+  ],
+  "Divide Two Integers": [
+    "Math",
+    "Binary Search"
+  ],
+  "Substring with Concatenation of All Words": [
+    "Hash Table",
+    "Two Pointers",
+    "String"
+  ],
+  "Next Permutation": [
+    "Array"
+  ],
+  "Longest Valid Parentheses": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "Search in Rotated Sorted Array": [
+    "Array",
+    "Binary Search"
+  ],
+  "Find First and Last Position of Element in Sorted Array": [
+    "Array",
+    "Binary Search"
+  ],
+  "Search Insert Position": [
+    "Array",
+    "Binary Search"
+  ],
+  "Valid Sudoku": [
+    "Hash Table"
+  ],
+  "Sudoku Solver": [
+    "Hash Table",
+    "Backtracking"
+  ],
+  "Count and Say": [
+    "String"
+  ],
+  "Combination Sum": [
+    "Array",
+    "Backtracking"
+  ],
+  "Combination Sum II": [
+    "Array",
+    "Backtracking"
+  ],
+  "First Missing Positive": [
+    "Array"
+  ],
+  "Trapping Rain Water": [
+    "Array",
+    "Two Pointers",
+    "Dynamic Programming",
+    "Stack"
+  ],
+  "Multiply Strings": [
+    "Math",
+    "String"
+  ],
+  "Wildcard Matching": [
+    "String",
+    "Dynamic Programming",
+    "Backtracking",
+    "Greedy"
+  ],
+  "Jump Game II": [
+    "Array",
+    "Greedy"
+  ],
+  "Permutations": [
+    "Backtracking"
+  ],
+  "Permutations II": [
+    "Backtracking"
+  ],
+  "Rotate Image": [
+    "Array"
+  ],
+  "Group Anagrams": [
+    "Hash Table",
+    "String"
+  ],
+  "Pow(x, n)": [
+    "Math",
+    "Binary Search"
+  ],
+  "N-Queens": [
+    "Backtracking"
+  ],
+  "N-Queens II": [
+    "Backtracking"
+  ],
+  "Maximum Subarray": [
+    "Array",
+    "Divide and Conquer",
+    "Dynamic Programming"
+  ],
+  "Spiral Matrix": [
+    "Array"
+  ],
+  "Jump Game": [
+    "Array",
+    "Greedy"
+  ],
+  "Merge Intervals": [
+    "Array",
+    "Sort"
+  ],
+  "Insert Interval": [
+    "Array",
+    "Sort"
+  ],
+  "Length of Last Word": [
+    "String"
+  ],
+  "Spiral Matrix II": [
+    "Array"
+  ],
+  "Permutation Sequence": [
+    "Math",
+    "Backtracking"
+  ],
+  "Rotate List": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "Unique Paths": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "Unique Paths II": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "Minimum Path Sum": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "Valid Number": [
+    "Math",
+    "String"
+  ],
+  "Plus One": [
+    "Array"
+  ],
+  "Add Binary": [
+    "Math",
+    "String"
+  ],
+  "Text Justification": [
+    "String"
+  ],
+  "Sqrt(x)": [
+    "Math",
+    "Binary Search"
+  ],
+  "Climbing Stairs": [
+    "Dynamic Programming"
+  ],
+  "Simplify Path": [
+    "String",
+    "Stack"
+  ],
+  "Edit Distance": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "Set Matrix Zeroes": [
+    "Array"
+  ],
+  "Search a 2D Matrix": [
+    "Array",
+    "Binary Search"
+  ],
+  "Sort Colors": [
+    "Array",
+    "Two Pointers",
+    "Sort"
+  ],
+  "Minimum Window Substring": [
+    "Hash Table",
+    "Two Pointers",
+    "String",
+    "Sliding Window"
+  ],
+  "Combinations": [
+    "Backtracking"
+  ],
+  "Subsets": [
+    "Array",
+    "Backtracking",
+    "Bit Manipulation"
+  ],
+  "Word Search": [
+    "Array",
+    "Backtracking"
+  ],
+  "Remove Duplicates from Sorted Array II": [
+    "Array",
+    "Two Pointers"
+  ],
+  "Search in Rotated Sorted Array II": [
+    "Array",
+    "Binary Search"
+  ],
+  "Remove Duplicates from Sorted List II": [
+    "Linked List"
+  ],
+  "Remove Duplicates from Sorted List": [
+    "Linked List"
+  ],
+  "Largest Rectangle in Histogram": [
+    "Array",
+    "Stack"
+  ],
+  "Maximal Rectangle": [
+    "Array",
+    "Hash Table",
+    "Dynamic Programming",
+    "Stack"
+  ],
+  "Partition List": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "Scramble String": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "Merge Sorted Array": [
+    "Array",
+    "Two Pointers"
+  ],
+  "Gray Code": [
+    "Backtracking"
+  ],
+  "Subsets II": [
+    "Array",
+    "Backtracking"
+  ],
+  "Decode Ways": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "Reverse Linked List II": [
+    "Linked List"
+  ],
+  "Restore IP Addresses": [
+    "String",
+    "Backtracking"
+  ],
+  "Binary Tree Inorder Traversal": [
+    "Hash Table",
+    "Stack",
+    "Tree"
+  ],
+  "Unique Binary Search Trees II": [
+    "Dynamic Programming",
+    "Tree"
+  ],
+  "Unique Binary Search Trees": [
+    "Dynamic Programming",
+    "Tree"
+  ],
+  "Interleaving String": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "Recover Binary Search Tree": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Same Tree": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Symmetric Tree": [
+    "Tree",
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Binary Tree Level Order Traversal": [
+    "Tree",
+    "Breadth-first Search"
+  ],
+  "Binary Tree Zigzag Level Order Traversal": [
+    "Stack",
+    "Tree",
+    "Breadth-first Search"
+  ],
+  "Maximum Depth of Binary Tree": [
+    "Tree",
+    "Depth-first Search",
+    "Recursion"
+  ],
+  "Construct Binary Tree from Preorder and Inorder Traversal": [
+    "Array",
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Construct Binary Tree from Inorder and Postorder Traversal": [
+    "Array",
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Binary Tree Level Order Traversal II": [
+    "Tree",
+    "Breadth-first Search"
+  ],
+  "Convert Sorted Array to Binary Search Tree": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Convert Sorted List to Binary Search Tree": [
+    "Linked List",
+    "Depth-first Search"
+  ],
+  "Balanced Binary Tree": [
+    "Tree",
+    "Depth-first Search",
+    "Recursion"
+  ],
+  "Minimum Depth of Binary Tree": [
+    "Tree",
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Path Sum": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Path Sum II": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Flatten Binary Tree to Linked List": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Distinct Subsequences": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "Populating Next Right Pointers in Each Node": [
+    "Tree",
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Populating Next Right Pointers in Each Node II": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Pascal's Triangle": [
+    "Array"
+  ],
+  "Pascal's Triangle II": [
+    "Array"
+  ],
+  "Triangle": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "Best Time to Buy and Sell Stock": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "Best Time to Buy and Sell Stock II": [
+    "Array",
+    "Greedy"
+  ],
+  "Best Time to Buy and Sell Stock III": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "Binary Tree Maximum Path Sum": [
+    "Tree",
+    "Depth-first Search",
+    "Recursion"
+  ],
+  "Valid Palindrome": [
+    "Two Pointers",
+    "String"
+  ],
+  "Word Ladder II": [
+    "Array",
+    "String",
+    "Backtracking",
+    "Breadth-first Search"
+  ],
+  "Word Ladder": [
+    "Breadth-first Search"
+  ],
+  "Longest Consecutive Sequence": [
+    "Array",
+    "Union Find"
+  ],
+  "Sum Root to Leaf Numbers": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Surrounded Regions": [
+    "Depth-first Search",
+    "Breadth-first Search",
+    "Union Find"
+  ],
+  "Palindrome Partitioning": [
+    "Dynamic Programming",
+    "Backtracking",
+    "Depth-first Search"
+  ],
+  "Palindrome Partitioning II": [
+    "Dynamic Programming"
+  ],
+  "Clone Graph": [
+    "Depth-first Search",
+    "Breadth-first Search",
+    "Graph"
+  ],
+  "Gas Station": [
+    "Greedy"
+  ],
+  "Candy": [
+    "Greedy"
+  ],
+  "Single Number": [
+    "Hash Table",
+    "Bit Manipulation"
+  ],
+  "Single Number II": [
+    "Bit Manipulation"
+  ],
+  "Copy List with Random Pointer": [
+    "Hash Table",
+    "Linked List"
+  ],
+  "Word Break": [
+    "Dynamic Programming"
+  ],
+  "Word Break II": [
+    "Dynamic Programming",
+    "Backtracking"
+  ],
+  "Linked List Cycle": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "Linked List Cycle II": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "Reorder List": [
+    "Linked List"
+  ],
+  "Binary Tree Preorder Traversal": [
+    "Stack",
+    "Tree"
+  ],
+  "Binary Tree Postorder Traversal": [
+    "Stack",
+    "Tree"
+  ],
+  "LRU Cache": [
+    "Design"
+  ],
+  "Insertion Sort List": [
+    "Linked List",
+    "Sort"
+  ],
+  "Sort List": [
+    "Linked List",
+    "Sort"
+  ],
+  "Max Points on a Line": [
+    "Hash Table",
+    "Math"
+  ],
+  "Evaluate Reverse Polish Notation": [
+    "Stack"
+  ],
+  "Reverse Words in a String": [
+    "String"
+  ],
+  "Maximum Product Subarray": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "Find Minimum in Rotated Sorted Array": [
+    "Array",
+    "Binary Search"
+  ],
+  "Find Minimum in Rotated Sorted Array II": [
+    "Array",
+    "Binary Search"
+  ],
+  "Min Stack": [
+    "Stack",
+    "Design"
+  ],
+  "Binary Tree Upside Down": [
+    "Tree"
+  ],
+  "Read N Characters Given Read4": [
+    "String"
+  ],
+  "Read N Characters Given Read4 II - Call multiple times": [
+    "String"
+  ],
+  "Longest Substring with At Most Two Distinct Characters": [
+    "Hash Table",
+    "Two Pointers",
+    "String",
+    "Sliding Window"
+  ],
+  "Intersection of Two Linked Lists": [
+    "Linked List"
+  ],
+  "One Edit Distance": [
+    "String"
+  ],
+  "Find Peak Element": [
+    "Array",
+    "Binary Search"
+  ],
+  "Missing Ranges": [
+    "Array"
+  ],
+  "Maximum Gap": [
+    "Sort"
+  ],
+  "Compare Version Numbers": [
+    "String"
+  ],
+  "Fraction to Recurring Decimal": [
+    "Hash Table",
+    "Math"
+  ],
+  "Two Sum II - Input array is sorted": [
+    "Array",
+    "Two Pointers",
+    "Binary Search"
+  ],
+  "Excel Sheet Column Title": [
+    "Math"
+  ],
+  "Majority Element": [
+    "Array",
+    "Divide and Conquer",
+    "Bit Manipulation"
+  ],
+  "Two Sum III - Data structure design": [
+    "Hash Table",
+    "Design"
+  ],
+  "Excel Sheet Column Number": [
+    "Math"
+  ],
+  "Factorial Trailing Zeroes": [
+    "Math"
+  ],
+  "Binary Search Tree Iterator": [
+    "Stack",
+    "Tree",
+    "Design"
+  ],
+  "Dungeon Game": [
+    "Binary Search",
+    "Dynamic Programming"
+  ],
+  "Largest Number": [
+    "Sort"
+  ],
+  "Reverse Words in a String II": [
+    "String"
+  ],
+  "Repeated DNA Sequences": [
+    "Hash Table",
+    "Bit Manipulation"
+  ],
+  "Best Time to Buy and Sell Stock IV": [
+    "Dynamic Programming"
+  ],
+  "Rotate Array": [
+    "Array"
+  ],
+  "Reverse Bits": [
+    "Bit Manipulation"
+  ],
+  "Number of 1 Bits": [
+    "Bit Manipulation"
+  ],
+  "House Robber": [
+    "Dynamic Programming"
+  ],
+  "Binary Tree Right Side View": [
+    "Tree",
+    "Depth-first Search",
+    "Breadth-first Search",
+    "Recursion",
+    "Queue"
+  ],
+  "Number of Islands": [
+    "Depth-first Search",
+    "Breadth-first Search",
+    "Union Find"
+  ],
+  "Bitwise AND of Numbers Range": [
+    "Bit Manipulation"
+  ],
+  "Happy Number": [
+    "Hash Table",
+    "Math"
+  ],
+  "Remove Linked List Elements": [
+    "Linked List"
+  ],
+  "Count Primes": [
+    "Hash Table",
+    "Math"
+  ],
+  "Isomorphic Strings": [
+    "Hash Table"
+  ],
+  "Reverse Linked List": [
+    "Linked List"
+  ],
+  "Course Schedule": [
+    "Depth-first Search",
+    "Breadth-first Search",
+    "Graph",
+    "Topological Sort"
+  ],
+  "Implement Trie (Prefix Tree)": [
+    "Design",
+    "Trie"
+  ],
+  "Minimum Size Subarray Sum": [
+    "Array",
+    "Two Pointers",
+    "Binary Search"
+  ],
+  "Course Schedule II": [
+    "Depth-first Search",
+    "Breadth-first Search",
+    "Graph",
+    "Topological Sort"
+  ],
+  "Design Add and Search Words Data Structure": [
+    "Backtracking",
+    "Depth-first Search",
+    "Design",
+    "Trie"
+  ],
+  "Word Search II": [
+    "Backtracking",
+    "Trie"
+  ],
+  "House Robber II": [
+    "Dynamic Programming"
+  ],
+  "Shortest Palindrome": [
+    "String"
+  ],
+  "Kth Largest Element in an Array": [
+    "Divide and Conquer",
+    "Heap"
+  ],
+  "Combination Sum III": [
+    "Array",
+    "Backtracking"
+  ],
+  "Contains Duplicate": [
+    "Array",
+    "Hash Table"
+  ],
+  "The Skyline Problem": [
+    "Divide and Conquer",
+    "Heap",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Line Sweep"
+  ],
+  "Contains Duplicate II": [
+    "Array",
+    "Hash Table"
+  ],
+  "Contains Duplicate III": [
+    "Sort",
+    "Ordered Map"
+  ],
+  "Maximal Square": [
+    "Dynamic Programming"
+  ],
+  "Count Complete Tree Nodes": [
+    "Binary Search",
+    "Tree"
+  ],
+  "Rectangle Area": [
+    "Math"
+  ],
+  "Basic Calculator": [
+    "Math",
+    "Stack"
+  ],
+  "Implement Stack using Queues": [
+    "Stack",
+    "Design"
+  ],
+  "Invert Binary Tree": [
+    "Tree"
+  ],
+  "Basic Calculator II": [
+    "String",
+    "Stack"
+  ],
+  "Summary Ranges": [
+    "Array"
+  ],
+  "Majority Element II": [
+    "Array"
+  ],
+  "Kth Smallest Element in a BST": [
+    "Binary Search",
+    "Tree"
+  ],
+  "Power of Two": [
+    "Math",
+    "Bit Manipulation"
+  ],
+  "Implement Queue using Stacks": [
+    "Stack",
+    "Design"
+  ],
+  "Number of Digit One": [
+    "Math"
+  ],
+  "Palindrome Linked List": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "Lowest Common Ancestor of a Binary Search Tree": [
+    "Tree"
+  ],
+  "Lowest Common Ancestor of a Binary Tree": [
+    "Tree"
+  ],
+  "Delete Node in a Linked List": [
+    "Linked List"
+  ],
+  "Product of Array Except Self": [
+    "Array"
+  ],
+  "Sliding Window Maximum": [
+    "Heap",
+    "Sliding Window",
+    "Dequeue"
+  ],
+  "Search a 2D Matrix II": [
+    "Binary Search",
+    "Divide and Conquer"
+  ],
+  "Different Ways to Add Parentheses": [
+    "Divide and Conquer"
+  ],
+  "Valid Anagram": [
+    "Hash Table",
+    "Sort"
+  ],
+  "Shortest Word Distance II": [
+    "Hash Table",
+    "Design"
+  ],
+  "Shortest Word Distance III": [
+    "Array"
+  ],
+  "Strobogrammatic Number": [
+    "Hash Table",
+    "Math"
+  ],
+  "Strobogrammatic Number II": [
+    "Math",
+    "Recursion"
+  ],
+  "Strobogrammatic Number III": [
+    "Math",
+    "Recursion"
+  ],
+  "Group Shifted Strings": [
+    "Hash Table",
+    "String"
+  ],
+  "Count Univalue Subtrees": [
+    "Tree"
+  ],
+  "Flatten 2D Vector": [
+    "Design"
+  ],
+  "Meeting Rooms": [
+    "Sort"
+  ],
+  "Meeting Rooms II": [
+    "Heap",
+    "Greedy",
+    "Sort"
+  ],
+  "Factor Combinations": [
+    "Backtracking"
+  ],
+  "Verify Preorder Sequence in Binary Search Tree": [
+    "Stack",
+    "Tree"
+  ],
+  "Paint House": [
+    "Dynamic Programming"
+  ],
+  "Binary Tree Paths": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Add Digits": [
+    "Math"
+  ],
+  "3Sum Smaller": [
+    "Array",
+    "Two Pointers"
+  ],
+  "Single Number III": [
+    "Bit Manipulation"
+  ],
+  "Graph Valid Tree": [
+    "Depth-first Search",
+    "Breadth-first Search",
+    "Union Find",
+    "Graph"
+  ],
+  "Ugly Number": [
+    "Math"
+  ],
+  "Ugly Number II": [
+    "Math",
+    "Dynamic Programming",
+    "Heap"
+  ],
+  "Paint House II": [
+    "Dynamic Programming"
+  ],
+  "Palindrome Permutation": [
+    "Hash Table"
+  ],
+  "Palindrome Permutation II": [
+    "Backtracking"
+  ],
+  "Missing Number": [
+    "Array",
+    "Math",
+    "Bit Manipulation"
+  ],
+  "Alien Dictionary": [
+    "Graph",
+    "Topological Sort"
+  ],
+  "Closest Binary Search Tree Value": [
+    "Binary Search",
+    "Tree"
+  ],
+  "Encode and Decode Strings": [
+    "String"
+  ],
+  "Closest Binary Search Tree Value II": [
+    "Stack",
+    "Tree"
+  ],
+  "Integer to English Words": [
+    "Math",
+    "String"
+  ],
+  "H-Index": [
+    "Hash Table",
+    "Sort"
+  ],
+  "H-Index II": [
+    "Binary Search"
+  ],
+  "Paint Fence": [
+    "Dynamic Programming"
+  ],
+  "Find the Celebrity": [
+    "Array"
+  ],
+  "First Bad Version": [
+    "Binary Search"
+  ],
+  "Perfect Squares": [
+    "Math",
+    "Dynamic Programming",
+    "Breadth-first Search"
+  ],
+  "Wiggle Sort": [
+    "Array",
+    "Sort"
+  ],
+  "Zigzag Iterator": [
+    "Design"
+  ],
+  "Expression Add Operators": [
+    "Divide and Conquer"
+  ],
+  "Move Zeroes": [
+    "Array",
+    "Two Pointers"
+  ],
+  "Peeking Iterator": [
+    "Design"
+  ],
+  "Inorder Successor in BST": [
+    "Tree"
+  ],
+  "Walls and Gates": [
+    "Breadth-first Search"
+  ],
+  "Find the Duplicate Number": [
+    "Array",
+    "Two Pointers",
+    "Binary Search"
+  ],
+  "Unique Word Abbreviation": [
+    "Hash Table",
+    "Design"
+  ],
+  "Game of Life": [
+    "Array"
+  ],
+  "Word Pattern": [
+    "Hash Table"
+  ],
+  "Word Pattern II": [
+    "Backtracking"
+  ],
+  "Nim Game": [
+    "Brainteaser",
+    "Minimax"
+  ],
+  "Flip Game": [
+    "String"
+  ],
+  "Flip Game II": [
+    "Backtracking",
+    "Minimax"
+  ],
+  "Find Median from Data Stream": [
+    "Heap",
+    "Design"
+  ],
+  "Best Meeting Point": [
+    "Math",
+    "Sort"
+  ],
+  "Serialize and Deserialize Binary Tree": [
+    "Tree",
+    "Design"
+  ],
+  "Binary Tree Longest Consecutive Sequence": [
+    "Tree"
+  ],
+  "Bulls and Cows": [
+    "Hash Table"
+  ],
+  "Longest Increasing Subsequence": [
+    "Binary Search",
+    "Dynamic Programming"
+  ],
+  "Remove Invalid Parentheses": [
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Smallest Rectangle Enclosing Black Pixels": [
+    "Binary Search"
+  ],
+  "Range Sum Query - Immutable": [
+    "Dynamic Programming"
+  ],
+  "Range Sum Query 2D - Immutable": [
+    "Dynamic Programming"
+  ],
+  "Number of Islands II": [
+    "Union Find"
+  ],
+  "Additive Number": [
+    "Backtracking"
+  ],
+  "Range Sum Query - Mutable": [
+    "Binary Indexed Tree",
+    "Segment Tree"
+  ],
+  "Range Sum Query 2D - Mutable": [
+    "Binary Indexed Tree",
+    "Segment Tree"
+  ],
+  "Best Time to Buy and Sell Stock with Cooldown": [
+    "Dynamic Programming"
+  ],
+  "Minimum Height Trees": [
+    "Breadth-first Search",
+    "Graph"
+  ],
+  "Sparse Matrix Multiplication": [
+    "Hash Table"
+  ],
+  "Burst Balloons": [
+    "Divide and Conquer",
+    "Dynamic Programming"
+  ],
+  "Super Ugly Number": [
+    "Math",
+    "Heap"
+  ],
+  "Binary Tree Vertical Order Traversal": [
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Count of Smaller Numbers After Self": [
+    "Binary Search",
+    "Divide and Conquer",
+    "Sort",
+    "Binary Indexed Tree",
+    "Segment Tree"
+  ],
+  "Remove Duplicate Letters": [
+    "String",
+    "Stack",
+    "Greedy"
+  ],
+  "Shortest Distance from All Buildings": [
+    "Breadth-first Search"
+  ],
+  "Maximum Product of Word Lengths": [
+    "Bit Manipulation"
+  ],
+  "Bulb Switcher": [
+    "Math",
+    "Brainteaser"
+  ],
+  "Generalized Abbreviation": [
+    "Backtracking",
+    "Bit Manipulation"
+  ],
+  "Create Maximum Number": [
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "Coin Change": [
+    "Dynamic Programming"
+  ],
+  "Number of Connected Components in an Undirected Graph": [
+    "Depth-first Search",
+    "Breadth-first Search",
+    "Union Find",
+    "Graph"
+  ],
+  "Wiggle Sort II": [
+    "Sort"
+  ],
+  "Maximum Size Subarray Sum Equals k": [
+    "Hash Table"
+  ],
+  "Power of Three": [
+    "Math"
+  ],
+  "Count of Range Sum": [
+    "Binary Search",
+    "Divide and Conquer",
+    "Sort",
+    "Binary Indexed Tree",
+    "Segment Tree"
+  ],
+  "Odd Even Linked List": [
+    "Linked List"
+  ],
+  "Longest Increasing Path in a Matrix": [
+    "Depth-first Search",
+    "Topological Sort",
+    "Memoization"
+  ],
+  "Patching Array": [
+    "Greedy"
+  ],
+  "Verify Preorder Serialization of a Binary Tree": [
+    "Stack"
+  ],
+  "Reconstruct Itinerary": [
+    "Depth-first Search",
+    "Graph"
+  ],
+  "Largest BST Subtree": [
+    "Tree"
+  ],
+  "Self Crossing": [
+    "Math"
+  ],
+  "Palindrome Pairs": [
+    "Hash Table",
+    "String",
+    "Trie"
+  ],
+  "House Robber III": [
+    "Dynamic Programming",
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Counting Bits": [
+    "Dynamic Programming",
+    "Bit Manipulation"
+  ],
+  "Nested List Weight Sum": [
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Longest Substring with At Most K Distinct Characters": [
+    "Hash Table",
+    "Two Pointers",
+    "String",
+    "Sliding Window"
+  ],
+  "Flatten Nested List Iterator": [
+    "Stack",
+    "Design"
+  ],
+  "Power of Four": [
+    "Bit Manipulation"
+  ],
+  "Integer Break": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "Reverse String": [
+    "Two Pointers",
+    "String"
+  ],
+  "Reverse Vowels of a String": [
+    "Two Pointers",
+    "String"
+  ],
+  "Moving Average from Data Stream": [
+    "Design",
+    "Queue"
+  ],
+  "Top K Frequent Elements": [
+    "Hash Table",
+    "Heap"
+  ],
+  "Design Tic-Tac-Toe": [
+    "Design"
+  ],
+  "Intersection of Two Arrays": [
+    "Hash Table",
+    "Two Pointers",
+    "Binary Search",
+    "Sort"
+  ],
+  "Intersection of Two Arrays II": [
+    "Hash Table",
+    "Two Pointers",
+    "Binary Search",
+    "Sort"
+  ],
+  "Android Unlock Patterns": [
+    "Dynamic Programming",
+    "Backtracking"
+  ],
+  "Data Stream as Disjoint Intervals": [
+    "Binary Search",
+    "Ordered Map"
+  ],
+  "Design Snake Game": [
+    "Design",
+    "Queue"
+  ],
+  "Russian Doll Envelopes": [
+    "Binary Search",
+    "Dynamic Programming"
+  ],
+  "Design Twitter": [
+    "Hash Table",
+    "Heap",
+    "Design"
+  ],
+  "Line Reflection": [
+    "Hash Table",
+    "Math"
+  ],
+  "Count Numbers with Unique Digits": [
+    "Math",
+    "Dynamic Programming",
+    "Backtracking"
+  ],
+  "Rearrange String k Distance Apart": [
+    "Hash Table",
+    "Heap",
+    "Greedy"
+  ],
+  "Logger Rate Limiter": [
+    "Hash Table",
+    "Design"
+  ],
+  "Sort Transformed Array": [
+    "Math",
+    "Two Pointers",
+    "Sort"
+  ],
+  "Bomb Enemy": [
+    "Dynamic Programming"
+  ],
+  "Design Hit Counter": [
+    "Design"
+  ],
+  "Max Sum of Rectangle No Larger Than K": [
+    "Binary Search",
+    "Dynamic Programming",
+    "Queue"
+  ],
+  "Nested List Weight Sum II": [
+    "Depth-first Search"
+  ],
+  "Water and Jug Problem": [
+    "Math"
+  ],
+  "Find Leaves of Binary Tree": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Valid Perfect Square": [
+    "Math",
+    "Binary Search"
+  ],
+  "Largest Divisible Subset": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "Plus One Linked List": [
+    "Linked List",
+    "Recursion"
+  ],
+  "Range Addition": [
+    "Array"
+  ],
+  "Sum of Two Integers": [
+    "Bit Manipulation"
+  ],
+  "Find K Pairs with Smallest Sums": [
+    "Heap"
+  ],
+  "Guess Number Higher or Lower": [
+    "Binary Search"
+  ],
+  "Guess Number Higher or Lower II": [
+    "Dynamic Programming",
+    "Minimax"
+  ],
+  "Wiggle Subsequence": [
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "Combination Sum IV": [
+    "Dynamic Programming"
+  ],
+  "Kth Smallest Element in a Sorted Matrix": [
+    "Binary Search",
+    "Heap"
+  ],
+  "Design Phone Directory": [
+    "Linked List",
+    "Design"
+  ],
+  "Insert Delete GetRandom O(1)": [
+    "Array",
+    "Hash Table",
+    "Design"
+  ],
+  "Insert Delete GetRandom O(1) - Duplicates allowed": [
+    "Array",
+    "Hash Table",
+    "Design"
+  ],
+  "Linked List Random Node": [
+    "Reservoir Sampling"
+  ],
+  "Ransom Note": [
+    "String"
+  ],
+  "Mini Parser": [
+    "String",
+    "Stack"
+  ],
+  "First Unique Character in a String": [
+    "Hash Table",
+    "String"
+  ],
+  "Find the Difference": [
+    "Hash Table",
+    "Bit Manipulation"
+  ],
+  "Perfect Rectangle": [
+    "Line Sweep"
+  ],
+  "Is Subsequence": [
+    "Binary Search",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "UTF-8 Validation": [
+    "Bit Manipulation"
+  ],
+  "Decode String": [
+    "Stack",
+    "Depth-first Search"
+  ],
+  "Longest Substring with At Least K Repeating Characters": [
+    "Divide and Conquer",
+    "Recursion",
+    "Sliding Window"
+  ],
+  "Rotate Function": [
+    "Math"
+  ],
+  "Integer Replacement": [
+    "Math",
+    "Bit Manipulation"
+  ],
+  "Random Pick Index": [
+    "Reservoir Sampling"
+  ],
+  "Evaluate Division": [
+    "Union Find",
+    "Graph"
+  ],
+  "Nth Digit": [
+    "Math"
+  ],
+  "Binary Watch": [
+    "Backtracking",
+    "Bit Manipulation"
+  ],
+  "Remove K Digits": [
+    "Stack",
+    "Greedy"
+  ],
+  "Frog Jump": [
+    "Dynamic Programming"
+  ],
+  "Sum of Left Leaves": [
+    "Tree"
+  ],
+  "Convert a Number to Hexadecimal": [
+    "Bit Manipulation"
+  ],
+  "Queue Reconstruction by Height": [
+    "Greedy"
+  ],
+  "Trapping Rain Water II": [
+    "Heap",
+    "Breadth-first Search"
+  ],
+  "Valid Word Abbreviation": [
+    "String"
+  ],
+  "Longest Palindrome": [
+    "Hash Table"
+  ],
+  "Split Array Largest Sum": [
+    "Binary Search",
+    "Dynamic Programming"
+  ],
+  "Minimum Unique Word Abbreviation": [
+    "Backtracking",
+    "Bit Manipulation"
+  ],
+  "Arithmetic Slices": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "Third Maximum Number": [
+    "Array"
+  ],
+  "Add Strings": [
+    "String"
+  ],
+  "Partition Equal Subset Sum": [
+    "Dynamic Programming"
+  ],
+  "Pacific Atlantic Water Flow": [
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Sentence Screen Fitting": [
+    "Dynamic Programming"
+  ],
+  "Maximum XOR of Two Numbers in an Array": [
+    "Bit Manipulation",
+    "Trie"
+  ],
+  "Reconstruct Original Digits from English": [
+    "Math"
+  ],
+  "Longest Repeating Character Replacement": [
+    "Two Pointers",
+    "Sliding Window"
+  ],
+  "Word Squares": [
+    "Backtracking",
+    "Trie"
+  ],
+  "Convert Binary Search Tree to Sorted Doubly Linked List": [
+    "Linked List",
+    "Divide and Conquer",
+    "Tree"
+  ],
+  "Serialize and Deserialize N-ary Tree": [
+    "Tree"
+  ],
+  "N-ary Tree Level Order Traversal": [
+    "Tree",
+    "Breadth-first Search"
+  ],
+  "Flatten a Multilevel Doubly Linked List": [
+    "Linked List",
+    "Depth-first Search"
+  ],
+  "Encode N-ary Tree to Binary Tree": [
+    "Tree"
+  ],
+  "All O`one Data Structure": [
+    "Design"
+  ],
+  "Non-overlapping Intervals": [
+    "Greedy"
+  ],
+  "Path Sum III": [
+    "Tree"
+  ],
+  "Find All Anagrams in a String": [
+    "Hash Table"
+  ],
+  "Ternary Expression Parser": [
+    "Stack",
+    "Depth-first Search"
+  ],
+  "Arranging Coins": [
+    "Math",
+    "Binary Search"
+  ],
+  "Find All Duplicates in an Array": [
+    "Array"
+  ],
+  "String Compression": [
+    "String"
+  ],
+  "Sequence Reconstruction": [
+    "Graph",
+    "Topological Sort"
+  ],
+  "Add Two Numbers II": [
+    "Linked List"
+  ],
+  "Arithmetic Slices II - Subsequence": [
+    "Dynamic Programming"
+  ],
+  "Number of Boomerangs": [
+    "Hash Table",
+    "Math"
+  ],
+  "Find All Numbers Disappeared in an Array": [
+    "Array"
+  ],
+  "Serialize and Deserialize BST": [
+    "Tree"
+  ],
+  "Delete Node in a BST": [
+    "Tree"
+  ],
+  "Sort Characters By Frequency": [
+    "Hash Table",
+    "Heap"
+  ],
+  "Minimum Number of Arrows to Burst Balloons": [
+    "Greedy",
+    "Sort"
+  ],
+  "Minimum Moves to Equal Array Elements": [
+    "Math"
+  ],
+  "4Sum II": [
+    "Hash Table",
+    "Binary Search"
+  ],
+  "Assign Cookies": [
+    "Greedy"
+  ],
+  "132 Pattern": [
+    "Stack"
+  ],
+  "Circular Array Loop": [
+    "Array",
+    "Two Pointers"
+  ],
+  "Repeated Substring Pattern": [
+    "String"
+  ],
+  "LFU Cache": [
+    "Design"
+  ],
+  "Hamming Distance": [
+    "Bit Manipulation"
+  ],
+  "Minimum Moves to Equal Array Elements II": [
+    "Math"
+  ],
+  "Island Perimeter": [
+    "Hash Table"
+  ],
+  "Can I Win": [
+    "Dynamic Programming",
+    "Minimax"
+  ],
+  "Count The Repetitions": [
+    "Dynamic Programming"
+  ],
+  "Unique Substrings in Wraparound String": [
+    "Dynamic Programming"
+  ],
+  "Validate IP Address": [
+    "String"
+  ],
+  "Convex Polygon": [
+    "Math"
+  ],
+  "Implement Rand10() Using Rand7()": [
+    "Random",
+    "Rejection Sampling"
+  ],
+  "Encode String with Shortest Length": [
+    "Dynamic Programming"
+  ],
+  "Concatenated Words": [
+    "Dynamic Programming",
+    "Depth-first Search",
+    "Trie"
+  ],
+  "Matchsticks to Square": [
+    "Depth-first Search"
+  ],
+  "Ones and Zeroes": [
+    "Dynamic Programming"
+  ],
+  "Heaters": [
+    "Binary Search"
+  ],
+  "Number Complement": [
+    "Bit Manipulation"
+  ],
+  "Total Hamming Distance": [
+    "Bit Manipulation"
+  ],
+  "Generate Random Point in a Circle": [
+    "Math",
+    "Random",
+    "Rejection Sampling"
+  ],
+  "Sliding Window Median": [
+    "Sliding Window"
+  ],
+  "Smallest Good Base": [
+    "Math",
+    "Binary Search"
+  ],
+  "Find Permutation": [
+    "Greedy"
+  ],
+  "Max Consecutive Ones": [
+    "Array"
+  ],
+  "Predict the Winner": [
+    "Dynamic Programming",
+    "Minimax"
+  ],
+  "Max Consecutive Ones II": [
+    "Two Pointers"
+  ],
+  "Zuma Game": [
+    "Depth-first Search"
+  ],
+  "Robot Room Cleaner": [
+    "Depth-first Search"
+  ],
+  "The Maze": [
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Increasing Subsequences": [
+    "Depth-first Search"
+  ],
+  "Reverse Pairs": [
+    "Binary Search",
+    "Divide and Conquer",
+    "Sort",
+    "Binary Indexed Tree",
+    "Segment Tree"
+  ],
+  "Target Sum": [
+    "Dynamic Programming",
+    "Depth-first Search"
+  ],
+  "Teemo Attacking": [
+    "Array"
+  ],
+  "Next Greater Element I": [
+    "Stack"
+  ],
+  "Random Point in Non-overlapping Rectangles": [
+    "Binary Search",
+    "Random"
+  ],
+  "The Maze III": [
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Keyboard Row": [
+    "Hash Table"
+  ],
+  "Find Mode in Binary Search Tree": [
+    "Tree"
+  ],
+  "IPO": [
+    "Heap",
+    "Greedy"
+  ],
+  "Next Greater Element II": [
+    "Stack"
+  ],
+  "The Maze II": [
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Perfect Number": [
+    "Math"
+  ],
+  "Most Frequent Subtree Sum": [
+    "Hash Table",
+    "Tree"
+  ],
+  "Fibonacci Number": [
+    "Array"
+  ],
+  "Inorder Successor in BST II": [
+    "Tree"
+  ],
+  "Find Bottom Left Tree Value": [
+    "Tree",
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Freedom Trail": [
+    "Divide and Conquer",
+    "Dynamic Programming",
+    "Depth-first Search"
+  ],
+  "Find Largest Value in Each Tree Row": [
+    "Tree",
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Longest Palindromic Subsequence": [
+    "Dynamic Programming"
+  ],
+  "Super Washing Machines": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "Random Flip Matrix": [
+    "Random"
+  ],
+  "Detect Capital": [
+    "String"
+  ],
+  "Longest Uncommon Subsequence I": [
+    "String",
+    "Brainteaser"
+  ],
+  "Longest Uncommon Subsequence II": [
+    "String"
+  ],
+  "Continuous Subarray Sum": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "Longest Word in Dictionary through Deleting": [
+    "Two Pointers",
+    "Sort"
+  ],
+  "Contiguous Array": [
+    "Hash Table"
+  ],
+  "Beautiful Arrangement": [
+    "Backtracking",
+    "Depth-first Search"
+  ],
+  "Word Abbreviation": [
+    "String",
+    "Sort"
+  ],
+  "Random Pick with Weight": [
+    "Binary Search",
+    "Random"
+  ],
+  "Minesweeper": [
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Minimum Absolute Difference in BST": [
+    "Tree"
+  ],
+  "Lonely Pixel I": [
+    "Array",
+    "Depth-first Search"
+  ],
+  "K-diff Pairs in an Array": [
+    "Array",
+    "Two Pointers"
+  ],
+  "Lonely Pixel II": [
+    "Array"
+  ],
+  "Encode and Decode TinyURL": [
+    "Hash Table",
+    "Math"
+  ],
+  "Construct Binary Tree from String": [
+    "String",
+    "Tree"
+  ],
+  "Complex Number Multiplication": [
+    "Math",
+    "String"
+  ],
+  "Convert BST to Greater Tree": [
+    "Tree",
+    "Depth-first Search",
+    "Binary Search Tree",
+    "Recursion"
+  ],
+  "Minimum Time Difference": [
+    "String"
+  ],
+  "Single Element in a Sorted Array": [
+    "Binary Search"
+  ],
+  "Reverse String II": [
+    "String"
+  ],
+  "01 Matrix": [
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Diameter of Binary Tree": [
+    "Tree"
+  ],
+  "Output Contest Matches": [
+    "String",
+    "Recursion"
+  ],
+  "Boundary of Binary Tree": [
+    "Tree"
+  ],
+  "Remove Boxes": [
+    "Dynamic Programming",
+    "Depth-first Search"
+  ],
+  "Number of Provinces": [
+    "Depth-first Search",
+    "Union Find"
+  ],
+  "Split Array with Equal Sum": [
+    "Array"
+  ],
+  "Binary Tree Longest Consecutive Sequence II": [
+    "Tree"
+  ],
+  "Student Attendance Record I": [
+    "String"
+  ],
+  "Student Attendance Record II": [
+    "Dynamic Programming"
+  ],
+  "Optimal Division": [
+    "Math",
+    "String"
+  ],
+  "Brick Wall": [
+    "Hash Table"
+  ],
+  "Split Concatenated Strings": [
+    "String"
+  ],
+  "Next Greater Element III": [
+    "String"
+  ],
+  "Reverse Words in a String III": [
+    "String"
+  ],
+  "Maximum Depth of N-ary Tree": [
+    "Tree",
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Subarray Sum Equals K": [
+    "Array",
+    "Hash Table"
+  ],
+  "Array Partition I": [
+    "Array"
+  ],
+  "Longest Line of Consecutive One in Matrix": [
+    "Array"
+  ],
+  "Binary Tree Tilt": [
+    "Tree",
+    "Depth-first Search",
+    "Recursion"
+  ],
+  "Find the Closest Palindrome": [
+    "String"
+  ],
+  "Array Nesting": [
+    "Array"
+  ],
+  "Reshape the Matrix": [
+    "Array"
+  ],
+  "Permutation in String": [
+    "Two Pointers",
+    "Sliding Window"
+  ],
+  "Maximum Vacation Days": [
+    "Dynamic Programming"
+  ],
+  "Subtree of Another Tree": [
+    "Tree"
+  ],
+  "Squirrel Simulation": [
+    "Math"
+  ],
+  "Distribute Candies": [
+    "Hash Table"
+  ],
+  "Out of Boundary Paths": [
+    "Dynamic Programming",
+    "Depth-first Search"
+  ],
+  "Shortest Unsorted Continuous Subarray": [
+    "Array"
+  ],
+  "Kill Process": [
+    "Tree",
+    "Queue"
+  ],
+  "Delete Operation for Two Strings": [
+    "String"
+  ],
+  "Erect the Fence": [
+    "Geometry"
+  ],
+  "Design In-Memory File System": [
+    "Design"
+  ],
+  "N-ary Tree Postorder Traversal": [
+    "Tree"
+  ],
+  "Tag Validator": [
+    "String",
+    "Stack"
+  ],
+  "Fraction Addition and Subtraction": [
+    "Math"
+  ],
+  "Valid Square": [
+    "Math"
+  ],
+  "Longest Harmonious Subsequence": [
+    "Hash Table"
+  ],
+  "Range Addition II": [
+    "Math"
+  ],
+  "Minimum Index Sum of Two Lists": [
+    "Hash Table"
+  ],
+  "Non-negative Integers without Consecutive Ones": [
+    "Dynamic Programming"
+  ],
+  "Design Compressed String Iterator": [
+    "Design"
+  ],
+  "Can Place Flowers": [
+    "Array",
+    "Greedy"
+  ],
+  "Construct String from Binary Tree": [
+    "String",
+    "Tree"
+  ],
+  "Find Duplicate File in System": [
+    "Hash Table",
+    "String"
+  ],
+  "Valid Triangle Number": [
+    "Array"
+  ],
+  "Add Bold Tag in String": [
+    "String"
+  ],
+  "Merge Two Binary Trees": [
+    "Tree"
+  ],
+  "Task Scheduler": [
+    "Array",
+    "Greedy",
+    "Queue"
+  ],
+  "Design Circular Queue": [
+    "Design",
+    "Queue"
+  ],
+  "Add One Row to Tree": [
+    "Tree"
+  ],
+  "Maximum Distance in Arrays": [
+    "Array",
+    "Hash Table"
+  ],
+  "Minimum Factorization": [
+    "Math",
+    "Recursion"
+  ],
+  "Maximum Product of Three Numbers": [
+    "Array",
+    "Math"
+  ],
+  "K Inverse Pairs Array": [
+    "Dynamic Programming"
+  ],
+  "Course Schedule III": [
+    "Greedy"
+  ],
+  "Design Excel Sum Formula": [
+    "Design"
+  ],
+  "Smallest Range Covering Elements from K Lists": [
+    "Hash Table",
+    "Two Pointers",
+    "String"
+  ],
+  "Sum of Square Numbers": [
+    "Math"
+  ],
+  "Find the Derangement of An Array": [
+    "Math"
+  ],
+  "Design Log Storage System": [
+    "String",
+    "Design"
+  ],
+  "Exclusive Time of Functions": [
+    "Stack"
+  ],
+  "Average of Levels in Binary Tree": [
+    "Tree"
+  ],
+  "Shopping Offers": [
+    "Dynamic Programming",
+    "Depth-first Search"
+  ],
+  "Decode Ways II": [
+    "Dynamic Programming"
+  ],
+  "Solve the Equation": [
+    "Math"
+  ],
+  "Design Circular Deque": [
+    "Design",
+    "Queue"
+  ],
+  "Design Search Autocomplete System": [
+    "Design",
+    "Trie"
+  ],
+  "Maximum Average Subarray I": [
+    "Array"
+  ],
+  "Maximum Average Subarray II": [
+    "Array",
+    "Binary Search"
+  ],
+  "Set Mismatch": [
+    "Hash Table",
+    "Math"
+  ],
+  "Maximum Length of Pair Chain": [
+    "Dynamic Programming"
+  ],
+  "Palindromic Substrings": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "Replace Words": [
+    "Hash Table",
+    "Trie"
+  ],
+  "Dota2 Senate": [
+    "Greedy"
+  ],
+  "2 Keys Keyboard": [
+    "Dynamic Programming"
+  ],
+  "4 Keys Keyboard": [
+    "Math",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "Find Duplicate Subtrees": [
+    "Tree"
+  ],
+  "Two Sum IV - Input is a BST": [
+    "Tree"
+  ],
+  "Maximum Binary Tree": [
+    "Tree"
+  ],
+  "Print Binary Tree": [
+    "Tree"
+  ],
+  "Coin Path": [
+    "Dynamic Programming"
+  ],
+  "Robot Return to Origin": [
+    "String"
+  ],
+  "Find K Closest Elements": [
+    "Binary Search"
+  ],
+  "Split Array into Consecutive Subsequences": [
+    "Heap",
+    "Greedy"
+  ],
+  "Remove 9": [
+    "Math"
+  ],
+  "Image Smoother": [
+    "Array"
+  ],
+  "Maximum Width of Binary Tree": [
+    "Tree"
+  ],
+  "Equal Tree Partition": [
+    "Tree"
+  ],
+  "Strange Printer": [
+    "Dynamic Programming",
+    "Depth-first Search"
+  ],
+  "Non-decreasing Array": [
+    "Array"
+  ],
+  "Path Sum IV": [
+    "Tree"
+  ],
+  "Beautiful Arrangement II": [
+    "Array"
+  ],
+  "Kth Smallest Number in Multiplication Table": [
+    "Binary Search"
+  ],
+  "Trim a Binary Search Tree": [
+    "Tree",
+    "Recursion"
+  ],
+  "Maximum Swap": [
+    "Array",
+    "Math"
+  ],
+  "Second Minimum Node In a Binary Tree": [
+    "Tree"
+  ],
+  "Bulb Switcher II": [
+    "Math"
+  ],
+  "Number of Longest Increasing Subsequence": [
+    "Dynamic Programming"
+  ],
+  "Longest Continuous Increasing Subsequence": [
+    "Array"
+  ],
+  "Cut Off Trees for Golf Event": [
+    "Breadth-first Search"
+  ],
+  "Implement Magic Dictionary": [
+    "Hash Table",
+    "Trie"
+  ],
+  "Map Sum Pairs": [
+    "Trie"
+  ],
+  "Valid Parenthesis String": [
+    "String"
+  ],
+  "24 Game": [
+    "Depth-first Search"
+  ],
+  "Valid Palindrome II": [
+    "String"
+  ],
+  "Next Closest Time": [
+    "String"
+  ],
+  "Baseball Game": [
+    "Stack"
+  ],
+  "K Empty Slots": [
+    "Ordered Map"
+  ],
+  "Redundant Connection": [
+    "Tree",
+    "Union Find",
+    "Graph"
+  ],
+  "Redundant Connection II": [
+    "Tree",
+    "Depth-first Search",
+    "Union Find",
+    "Graph"
+  ],
+  "Repeated String Match": [
+    "String"
+  ],
+  "Longest Univalue Path": [
+    "Tree",
+    "Recursion"
+  ],
+  "Knight Probability in Chessboard": [
+    "Dynamic Programming"
+  ],
+  "Maximum Sum of 3 Non-Overlapping Subarrays": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "Employee Importance": [
+    "Hash Table",
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Stickers to Spell Word": [
+    "Dynamic Programming",
+    "Backtracking"
+  ],
+  "Top K Frequent Words": [
+    "Hash Table",
+    "Heap",
+    "Trie"
+  ],
+  "Binary Number with Alternating Bits": [
+    "Bit Manipulation"
+  ],
+  "Number of Distinct Islands": [
+    "Hash Table",
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Max Area of Island": [
+    "Array",
+    "Depth-first Search"
+  ],
+  "Count Binary Substrings": [
+    "String"
+  ],
+  "Degree of an Array": [
+    "Array"
+  ],
+  "Partition to K Equal Sum Subsets": [
+    "Dynamic Programming",
+    "Recursion"
+  ],
+  "Falling Squares": [
+    "Segment Tree",
+    "Ordered Map"
+  ],
+  "Search in a Binary Search Tree": [
+    "Tree"
+  ],
+  "Insert into a Binary Search Tree": [
+    "Tree"
+  ],
+  "Search in a Sorted Array of Unknown Size": [
+    "Binary Search"
+  ],
+  "Kth Largest Element in a Stream": [
+    "Heap",
+    "Design"
+  ],
+  "Binary Search": [
+    "Binary Search"
+  ],
+  "Design HashSet": [
+    "Hash Table",
+    "Design"
+  ],
+  "Design HashMap": [
+    "Hash Table",
+    "Design"
+  ],
+  "Design Linked List": [
+    "Linked List",
+    "Design"
+  ],
+  "Insert into a Sorted Circular Linked List": [
+    "Linked List"
+  ],
+  "To Lower Case": [
+    "String"
+  ],
+  "Random Pick with Blacklist": [
+    "Hash Table",
+    "Binary Search",
+    "Sort",
+    "Random"
+  ],
+  "Number of Distinct Islands II": [
+    "Hash Table",
+    "Depth-first Search"
+  ],
+  "Minimum ASCII Delete Sum for Two Strings": [
+    "Dynamic Programming"
+  ],
+  "Subarray Product Less Than K": [
+    "Array",
+    "Two Pointers"
+  ],
+  "Best Time to Buy and Sell Stock with Transaction Fee": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "Range Module": [
+    "Segment Tree",
+    "Ordered Map"
+  ],
+  "Max Stack": [
+    "Design"
+  ],
+  "1-bit and 2-bit Characters": [
+    "Array"
+  ],
+  "Maximum Length of Repeated Subarray": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Dynamic Programming"
+  ],
+  "Find K-th Smallest Pair Distance": [
+    "Array",
+    "Binary Search",
+    "Heap"
+  ],
+  "Longest Word in Dictionary": [
+    "Hash Table",
+    "Trie"
+  ],
+  "Accounts Merge": [
+    "Depth-first Search",
+    "Union Find"
+  ],
+  "Remove Comments": [
+    "String"
+  ],
+  "Candy Crush": [
+    "Array",
+    "Two Pointers"
+  ],
+  "Find Pivot Index": [
+    "Array"
+  ],
+  "Split Linked List in Parts": [
+    "Linked List"
+  ],
+  "Number of Atoms": [
+    "Hash Table",
+    "Stack",
+    "Recursion"
+  ],
+  "Minimum Window Subsequence": [
+    "Dynamic Programming",
+    "Sliding Window"
+  ],
+  "Self Dividing Numbers": [
+    "Math"
+  ],
+  "My Calendar I": [
+    "Array"
+  ],
+  "Count Different Palindromic Subsequences": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "My Calendar II": [
+    "Ordered Map"
+  ],
+  "My Calendar III": [
+    "Segment Tree",
+    "Ordered Map"
+  ],
+  "Flood Fill": [
+    "Depth-first Search"
+  ],
+  "Sentence Similarity": [
+    "Hash Table"
+  ],
+  "Asteroid Collision": [
+    "Stack"
+  ],
+  "Parse Lisp Expression": [
+    "String"
+  ],
+  "Sentence Similarity II": [
+    "Depth-first Search",
+    "Union Find"
+  ],
+  "Monotone Increasing Digits": [
+    "Greedy"
+  ],
+  "Daily Temperatures": [
+    "Hash Table",
+    "Stack"
+  ],
+  "Delete and Earn": [
+    "Dynamic Programming"
+  ],
+  "Cherry Pickup": [
+    "Dynamic Programming"
+  ],
+  "Closest Leaf in a Binary Tree": [
+    "Tree"
+  ],
+  "Network Delay Time": [
+    "Heap",
+    "Depth-first Search",
+    "Breadth-first Search",
+    "Graph"
+  ],
+  "Find Smallest Letter Greater Than Target": [
+    "Binary Search"
+  ],
+  "Prefix and Suffix Search": [
+    "Trie"
+  ],
+  "Min Cost Climbing Stairs": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "Largest Number At Least Twice of Others": [
+    "Array"
+  ],
+  "Shortest Completing Word": [
+    "Hash Table"
+  ],
+  "Contain Virus": [
+    "Depth-first Search"
+  ],
+  "Number Of Corner Rectangles": [
+    "Dynamic Programming"
+  ],
+  "IP to CIDR": [
+    "Bit Manipulation"
+  ],
+  "Open the Lock": [
+    "Breadth-first Search"
+  ],
+  "Cracking the Safe": [
+    "Math",
+    "Depth-first Search"
+  ],
+  "Reach a Number": [
+    "Math"
+  ],
+  "Pour Water": [
+    "Array"
+  ],
+  "Pyramid Transition Matrix": [
+    "Bit Manipulation",
+    "Depth-first Search"
+  ],
+  "Set Intersection Size At Least Two": [
+    "Greedy"
+  ],
+  "Bold Words in String": [
+    "String"
+  ],
+  "Employee Free Time": [
+    "Heap",
+    "Greedy"
+  ],
+  "Find Anagram Mappings": [
+    "Hash Table"
+  ],
+  "Special Binary String": [
+    "String",
+    "Recursion"
+  ],
+  "Prime Number of Set Bits in Binary Representation": [
+    "Bit Manipulation"
+  ],
+  "Partition Labels": [
+    "Two Pointers",
+    "Greedy"
+  ],
+  "Largest Plus Sign": [
+    "Dynamic Programming"
+  ],
+  "Couples Holding Hands": [
+    "Greedy",
+    "Union Find",
+    "Graph"
+  ],
+  "Toeplitz Matrix": [
+    "Array"
+  ],
+  "Reorganize String": [
+    "String",
+    "Heap",
+    "Greedy",
+    "Sort"
+  ],
+  "Max Chunks To Make Sorted II": [
+    "Array"
+  ],
+  "Max Chunks To Make Sorted": [
+    "Array"
+  ],
+  "Basic Calculator IV": [
+    "Hash Table",
+    "String",
+    "Stack"
+  ],
+  "Jewels and Stones": [
+    "Hash Table"
+  ],
+  "Basic Calculator III": [
+    "String",
+    "Stack"
+  ],
+  "Sliding Puzzle": [
+    "Breadth-first Search"
+  ],
+  "Minimize Max Distance to Gas Station": [
+    "Binary Search"
+  ],
+  "Global and Local Inversions": [
+    "Array",
+    "Math"
+  ],
+  "Split BST": [
+    "Tree",
+    "Recursion"
+  ],
+  "Swap Adjacent in LR String": [
+    "Brainteaser"
+  ],
+  "Swim in Rising Water": [
+    "Binary Search",
+    "Heap",
+    "Depth-first Search",
+    "Union Find"
+  ],
+  "K-th Symbol in Grammar": [
+    "Recursion"
+  ],
+  "Reaching Points": [
+    "Math"
+  ],
+  "Rabbits in Forest": [
+    "Hash Table",
+    "Math"
+  ],
+  "Transform to Chessboard": [
+    "Array",
+    "Math"
+  ],
+  "Minimum Distance Between BST Nodes": [
+    "Tree",
+    "Depth-first Search",
+    "Recursion"
+  ],
+  "Letter Case Permutation": [
+    "Backtracking",
+    "Bit Manipulation"
+  ],
+  "Is Graph Bipartite?": [
+    "Depth-first Search",
+    "Breadth-first Search",
+    "Graph"
+  ],
+  "K-th Smallest Prime Fraction": [
+    "Binary Search",
+    "Heap"
+  ],
+  "Cheapest Flights Within K Stops": [
+    "Dynamic Programming",
+    "Heap",
+    "Breadth-first Search"
+  ],
+  "Rotated Digits": [
+    "String"
+  ],
+  "Escape The Ghosts": [
+    "Math"
+  ],
+  "Domino and Tromino Tiling": [
+    "Dynamic Programming"
+  ],
+  "Custom Sort String": [
+    "String"
+  ],
+  "Number of Matching Subsequences": [
+    "Array"
+  ],
+  "Preimage Size of Factorial Zeroes Function": [
+    "Binary Search"
+  ],
+  "Valid Tic-Tac-Toe State": [
+    "Math",
+    "Recursion"
+  ],
+  "Number of Subarrays with Bounded Maximum": [
+    "Array"
+  ],
+  "All Paths From Source to Target": [
+    "Backtracking",
+    "Depth-first Search",
+    "Graph"
+  ],
+  "Champagne Tower": [
+    "Dynamic Programming"
+  ],
+  "Similar RGB Color": [
+    "Math",
+    "String"
+  ],
+  "Minimum Swaps To Make Sequences Increasing": [
+    "Dynamic Programming"
+  ],
+  "Find Eventual Safe States": [
+    "Depth-first Search",
+    "Graph"
+  ],
+  "Bricks Falling When Hit": [
+    "Union Find"
+  ],
+  "Split Array With Same Average": [
+    "Math"
+  ],
+  "Soup Servings": [
+    "Dynamic Programming"
+  ],
+  "Expressive Words": [
+    "String"
+  ],
+  "Chalkboard XOR Game": [
+    "Math"
+  ],
+  "Subdomain Visit Count": [
+    "Hash Table"
+  ],
+  "Largest Triangle Area": [
+    "Math"
+  ],
+  "Largest Sum of Averages": [
+    "Dynamic Programming"
+  ],
+  "Binary Tree Pruning": [
+    "Tree"
+  ],
+  "Bus Routes": [
+    "Breadth-first Search"
+  ],
+  "Ambiguous Coordinates": [
+    "String"
+  ],
+  "Linked List Components": [
+    "Linked List"
+  ],
+  "Race Car": [
+    "Dynamic Programming",
+    "Heap"
+  ],
+  "Most Common Word": [
+    "String"
+  ],
+  "Goat Latin": [
+    "String"
+  ],
+  "Friends Of Appropriate Ages": [
+    "Array"
+  ],
+  "Most Profit Assigning Work": [
+    "Two Pointers"
+  ],
+  "Making A Large Island": [
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Count Unique Characters of All Substrings of a Given String": [
+    "Two Pointers"
+  ],
+  "Consecutive Numbers Sum": [
+    "Math"
+  ],
+  "Positions of Large Groups": [
+    "Array"
+  ],
+  "Masking Personal Information": [
+    "String"
+  ],
+  "Flipping an Image": [
+    "Array"
+  ],
+  "Find And Replace in String": [
+    "String"
+  ],
+  "Sum of Distances in Tree": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Image Overlap": [
+    "Array"
+  ],
+  "Rectangle Overlap": [
+    "Math"
+  ],
+  "New 21 Game": [
+    "Dynamic Programming"
+  ],
+  "Push Dominoes": [
+    "Two Pointers",
+    "Dynamic Programming"
+  ],
+  "Similar String Groups": [
+    "Depth-first Search",
+    "Union Find",
+    "Graph"
+  ],
+  "Magic Squares In Grid": [
+    "Array"
+  ],
+  "Keys and Rooms": [
+    "Depth-first Search",
+    "Graph"
+  ],
+  "Split Array into Fibonacci Sequence": [
+    "String",
+    "Backtracking",
+    "Greedy"
+  ],
+  "Guess the Word": [
+    "Minimax"
+  ],
+  "Backspace String Compare": [
+    "Two Pointers",
+    "Stack"
+  ],
+  "Longest Mountain in Array": [
+    "Two Pointers"
+  ],
+  "Hand of Straights": [
+    "Ordered Map"
+  ],
+  "Shortest Path Visiting All Nodes": [
+    "Dynamic Programming",
+    "Breadth-first Search"
+  ],
+  "Maximize Distance to Closest Person": [
+    "Array"
+  ],
+  "Rectangle Area II": [
+    "Segment Tree",
+    "Line Sweep"
+  ],
+  "Loud and Rich": [
+    "Depth-first Search"
+  ],
+  "Peak Index in a Mountain Array": [
+    "Binary Search"
+  ],
+  "Car Fleet": [
+    "Sort"
+  ],
+  "K-Similar Strings": [
+    "Breadth-first Search",
+    "Graph"
+  ],
+  "Exam Room": [
+    "Ordered Map"
+  ],
+  "Score of Parentheses": [
+    "String",
+    "Stack"
+  ],
+  "Minimum Cost to Hire K Workers": [
+    "Heap"
+  ],
+  "Mirror Reflection": [
+    "Math"
+  ],
+  "Buddy Strings": [
+    "String"
+  ],
+  "Lemonade Change": [
+    "Greedy"
+  ],
+  "Score After Flipping Matrix": [
+    "Greedy"
+  ],
+  "Shortest Subarray with Sum at Least K": [
+    "Binary Search",
+    "Queue"
+  ],
+  "All Nodes Distance K in Binary Tree": [
+    "Tree",
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Shortest Path to Get All Keys": [
+    "Heap",
+    "Breadth-first Search"
+  ],
+  "Smallest Subtree with all the Deepest Nodes": [
+    "Tree",
+    "Depth-first Search",
+    "Breadth-first Search",
+    "Recursion"
+  ],
+  "Prime Palindrome": [
+    "Math"
+  ],
+  "Transpose Matrix": [
+    "Array"
+  ],
+  "Binary Gap": [
+    "Math"
+  ],
+  "Advantage Shuffle": [
+    "Array",
+    "Greedy"
+  ],
+  "Minimum Number of Refueling Stops": [
+    "Dynamic Programming",
+    "Heap"
+  ],
+  "Leaf-Similar Trees": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Length of Longest Fibonacci Subsequence": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "Walking Robot Simulation": [
+    "Greedy"
+  ],
+  "Koko Eating Bananas": [
+    "Binary Search"
+  ],
+  "Middle of the Linked List": [
+    "Linked List"
+  ],
+  "Stone Game": [
+    "Math",
+    "Dynamic Programming",
+    "Minimax"
+  ],
+  "Profitable Schemes": [
+    "Dynamic Programming"
+  ],
+  "Decoded String at Index": [
+    "Stack"
+  ],
+  "Boats to Save People": [
+    "Two Pointers",
+    "Greedy"
+  ],
+  "Reachable Nodes In Subdivided Graph": [
+    "Heap",
+    "Breadth-first Search"
+  ],
+  "Uncommon Words from Two Sentences": [
+    "Hash Table"
+  ],
+  "Spiral Matrix III": [
+    "Math"
+  ],
+  "Possible Bipartition": [
+    "Depth-first Search",
+    "Graph"
+  ],
+  "Super Egg Drop": [
+    "Math",
+    "Binary Search",
+    "Dynamic Programming"
+  ],
+  "Fair Candy Swap": [
+    "Array"
+  ],
+  "Construct Binary Tree from Preorder and Postorder Traversal": [
+    "Tree"
+  ],
+  "Find and Replace Pattern": [
+    "String"
+  ],
+  "Sum of Subsequence Widths": [
+    "Array",
+    "Math"
+  ],
+  "Groups of Special-Equivalent Strings": [
+    "String"
+  ],
+  "All Possible Full Binary Trees": [
+    "Tree",
+    "Recursion"
+  ],
+  "Maximum Frequency Stack": [
+    "Hash Table",
+    "Stack"
+  ],
+  "Monotonic Array": [
+    "Array"
+  ],
+  "Increasing Order Search Tree": [
+    "Tree",
+    "Depth-first Search",
+    "Recursion"
+  ],
+  "Bitwise ORs of Subarrays": [
+    "Dynamic Programming",
+    "Bit Manipulation"
+  ],
+  "Orderly Queue": [
+    "Math",
+    "String"
+  ],
+  "RLE Iterator": [
+    "Array"
+  ],
+  "Online Stock Span": [
+    "Stack"
+  ],
+  "Numbers At Most N Given Digit Set": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "Fruit Into Baskets": [
+    "Two Pointers"
+  ],
+  "Sort Array By Parity": [
+    "Array"
+  ],
+  "Super Palindromes": [
+    "Math"
+  ],
+  "Sum of Subarray Minimums": [
+    "Array",
+    "Stack"
+  ],
+  "Smallest Range I": [
+    "Math"
+  ],
+  "Snakes and Ladders": [
+    "Breadth-first Search"
+  ],
+  "Smallest Range II": [
+    "Math",
+    "Greedy"
+  ],
+  "Online Election": [
+    "Binary Search"
+  ],
+  "Cat and Mouse": [
+    "Breadth-first Search",
+    "Minimax"
+  ],
+  "X of a Kind in a Deck of Cards": [
+    "Array",
+    "Math"
+  ],
+  "Partition Array into Disjoint Intervals": [
+    "Array"
+  ],
+  "Word Subsets": [
+    "String"
+  ],
+  "Reverse Only Letters": [
+    "String"
+  ],
+  "Maximum Sum Circular Subarray": [
+    "Array"
+  ],
+  "Complete Binary Tree Inserter": [
+    "Tree"
+  ],
+  "Number of Music Playlists": [
+    "Dynamic Programming"
+  ],
+  "Minimum Add to Make Parentheses Valid": [
+    "Stack",
+    "Greedy"
+  ],
+  "Sort Array By Parity II": [
+    "Array",
+    "Sort"
+  ],
+  "3Sum With Multiplicity": [
+    "Two Pointers"
+  ],
+  "Minimize Malware Spread": [
+    "Depth-first Search",
+    "Union Find"
+  ],
+  "Long Pressed Name": [
+    "Two Pointers",
+    "String"
+  ],
+  "Flip String to Monotone Increasing": [
+    "Array"
+  ],
+  "Three Equal Parts": [
+    "Math",
+    "Binary Search",
+    "Greedy"
+  ],
+  "Minimize Malware Spread II": [
+    "Depth-first Search",
+    "Union Find",
+    "Graph"
+  ],
+  "Unique Email Addresses": [
+    "String"
+  ],
+  "Binary Subarrays With Sum": [
+    "Hash Table",
+    "Two Pointers"
+  ],
+  "Minimum Falling Path Sum": [
+    "Dynamic Programming"
+  ],
+  "Beautiful Array": [
+    "Divide and Conquer"
+  ],
+  "Number of Recent Calls": [
+    "Queue"
+  ],
+  "Shortest Bridge": [
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Knight Dialer": [
+    "Dynamic Programming"
+  ],
+  "Stamping The Sequence": [
+    "String",
+    "Greedy"
+  ],
+  "Reorder Data in Log Files": [
+    "String"
+  ],
+  "Range Sum of BST": [
+    "Tree",
+    "Depth-first Search",
+    "Recursion"
+  ],
+  "Minimum Area Rectangle": [
+    "Hash Table"
+  ],
+  "DI String Match": [
+    "Math"
+  ],
+  "Find the Shortest Superstring": [
+    "Dynamic Programming"
+  ],
+  "Delete Columns to Make Sorted": [
+    "Greedy"
+  ],
+  "Minimum Increment to Make Array Unique": [
+    "Array"
+  ],
+  "Validate Stack Sequences": [
+    "Stack"
+  ],
+  "Most Stones Removed with Same Row or Column": [
+    "Depth-first Search",
+    "Union Find"
+  ],
+  "Bag of Tokens": [
+    "Two Pointers",
+    "Greedy",
+    "Sort"
+  ],
+  "Largest Time for Given Digits": [
+    "Math"
+  ],
+  "Reveal Cards In Increasing Order": [
+    "Array"
+  ],
+  "Flip Equivalent Binary Trees": [
+    "Tree"
+  ],
+  "Largest Component Size by Common Factor": [
+    "Math",
+    "Union Find"
+  ],
+  "Verifying an Alien Dictionary": [
+    "Hash Table"
+  ],
+  "Array of Doubled Pairs": [
+    "Array",
+    "Hash Table"
+  ],
+  "Delete Columns to Make Sorted II": [
+    "Greedy"
+  ],
+  "Prison Cells After N Days": [
+    "Hash Table"
+  ],
+  "Check Completeness of a Binary Tree": [
+    "Tree"
+  ],
+  "Regions Cut By Slashes": [
+    "Depth-first Search",
+    "Union Find",
+    "Graph"
+  ],
+  "Delete Columns to Make Sorted III": [
+    "Dynamic Programming"
+  ],
+  "N-Repeated Element in Size 2N Array": [
+    "Hash Table"
+  ],
+  "Maximum Width Ramp": [
+    "Array"
+  ],
+  "Minimum Area Rectangle II": [
+    "Math",
+    "Geometry"
+  ],
+  "Least Operators to Express Number": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "Univalued Binary Tree": [
+    "Tree"
+  ],
+  "Vowel Spellchecker": [
+    "Hash Table",
+    "String"
+  ],
+  "Numbers With Same Consecutive Differences": [
+    "Backtracking",
+    "Depth-first Search",
+    "Breadth-first Search",
+    "Recursion"
+  ],
+  "Binary Tree Cameras": [
+    "Dynamic Programming",
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Pancake Sorting": [
+    "Array",
+    "Sort"
+  ],
+  "Flip Binary Tree To Match Preorder Traversal": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Equal Rational Numbers": [
+    "Math"
+  ],
+  "K Closest Points to Origin": [
+    "Divide and Conquer",
+    "Heap",
+    "Sort"
+  ],
+  "Subarray Sums Divisible by K": [
+    "Array",
+    "Hash Table"
+  ],
+  "Odd Even Jump": [
+    "Dynamic Programming",
+    "Stack",
+    "Ordered Map"
+  ],
+  "Largest Perimeter Triangle": [
+    "Math",
+    "Sort"
+  ],
+  "Squares of a Sorted Array": [
+    "Array",
+    "Two Pointers"
+  ],
+  "Longest Turbulent Subarray": [
+    "Array",
+    "Dynamic Programming",
+    "Sliding Window"
+  ],
+  "Distribute Coins in Binary Tree": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Unique Paths III": [
+    "Backtracking",
+    "Depth-first Search"
+  ],
+  "Time Based Key-Value Store": [
+    "Hash Table",
+    "Binary Search"
+  ],
+  "Triples with Bitwise AND Equal To Zero": [
+    "Dynamic Programming"
+  ],
+  "Minimum Cost For Tickets": [
+    "Dynamic Programming"
+  ],
+  "String Without AAA or BBB": [
+    "Greedy"
+  ],
+  "Sum of Even Numbers After Queries": [
+    "Array"
+  ],
+  "Interval List Intersections": [
+    "Two Pointers"
+  ],
+  "Vertical Order Traversal of a Binary Tree": [
+    "Hash Table",
+    "Tree",
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Smallest String Starting From Leaf": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Add to Array-Form of Integer": [
+    "Array"
+  ],
+  "Satisfiability of Equality Equations": [
+    "Union Find",
+    "Graph"
+  ],
+  "Broken Calculator": [
+    "Math",
+    "Greedy"
+  ],
+  "Subarrays with K Different Integers": [
+    "Hash Table",
+    "Two Pointers",
+    "Sliding Window"
+  ],
+  "Cousins in Binary Tree": [
+    "Tree",
+    "Breadth-first Search"
+  ],
+  "Rotting Oranges": [
+    "Breadth-first Search"
+  ],
+  "Minimum Number of K Consecutive Bit Flips": [
+    "Greedy",
+    "Sliding Window"
+  ],
+  "Number of Squareful Arrays": [
+    "Math",
+    "Backtracking",
+    "Graph"
+  ],
+  "Find the Town Judge": [
+    "Graph"
+  ],
+  "Maximum Binary Tree II": [
+    "Tree"
+  ],
+  "Available Captures for Rook": [
+    "Array"
+  ],
+  "Minimum Cost to Merge Stones": [
+    "Dynamic Programming"
+  ],
+  "Grid Illumination": [
+    "Hash Table"
+  ],
+  "Find Common Characters": [
+    "Array",
+    "Hash Table"
+  ],
+  "Check If Word Is Valid After Substitutions": [
+    "String",
+    "Stack"
+  ],
+  "Max Consecutive Ones III": [
+    "Two Pointers",
+    "Sliding Window"
+  ],
+  "Maximize Sum Of Array After K Negations": [
+    "Greedy"
+  ],
+  "Clumsy Factorial": [
+    "Math"
+  ],
+  "Minimum Domino Rotations For Equal Row": [
+    "Array",
+    "Greedy"
+  ],
+  "Construct Binary Search Tree from Preorder Traversal": [
+    "Tree"
+  ],
+  "Complement of Base 10 Integer": [
+    "Math"
+  ],
+  "Pairs of Songs With Total Durations Divisible by 60": [
+    "Array"
+  ],
+  "Capacity To Ship Packages Within D Days": [
+    "Array",
+    "Binary Search"
+  ],
+  "Numbers With Repeated Digits": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "Partition Array Into Three Parts With Equal Sum": [
+    "Array"
+  ],
+  "Best Sightseeing Pair": [
+    "Array"
+  ],
+  "Smallest Integer Divisible by K": [
+    "Math"
+  ],
+  "Binary String With Substrings Representing 1 To N": [
+    "String"
+  ],
+  "Convert to Base -2": [
+    "Math"
+  ],
+  "Next Greater Node In Linked List": [
+    "Linked List",
+    "Stack"
+  ],
+  "Number of Enclaves": [
+    "Depth-first Search"
+  ],
+  "Remove Outermost Parentheses": [
+    "Stack"
+  ],
+  "Sum of Root To Leaf Binary Numbers": [
+    "Tree"
+  ],
+  "Camelcase Matching": [
+    "String",
+    "Trie"
+  ],
+  "Video Stitching": [
+    "Dynamic Programming"
+  ],
+  "Divisor Game": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "Maximum Difference Between Node and Ancestor": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Longest Arithmetic Subsequence": [
+    "Dynamic Programming"
+  ],
+  "Recover a Tree From Preorder Traversal": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Two City Scheduling": [
+    "Greedy"
+  ],
+  "Matrix Cells in Distance Order": [
+    "Sort"
+  ],
+  "Maximum Sum of Two Non-Overlapping Subarrays": [
+    "Array"
+  ],
+  "Stream of Characters": [
+    "Trie"
+  ],
+  "Moving Stones Until Consecutive": [
+    "Brainteaser"
+  ],
+  "Coloring A Border": [
+    "Depth-first Search"
+  ],
+  "Uncrossed Lines": [
+    "Array"
+  ],
+  "Escape a Large Maze": [
+    "Breadth-first Search"
+  ],
+  "Valid Boomerang": [
+    "Math"
+  ],
+  "Binary Search Tree to Greater Sum Tree": [
+    "Tree",
+    "Depth-first Search",
+    "Binary Search Tree",
+    "Recursion"
+  ],
+  "Minimum Score Triangulation of Polygon": [
+    "Dynamic Programming"
+  ],
+  "Moving Stones Until Consecutive II": [
+    "Array",
+    "Sliding Window"
+  ],
+  "Robot Bounded In Circle": [
+    "Math"
+  ],
+  "Flower Planting With No Adjacent": [
+    "Graph"
+  ],
+  "Partition Array for Maximum Sum": [
+    "Dynamic Programming"
+  ],
+  "Longest Duplicate Substring": [
+    "Hash Table",
+    "Binary Search",
+    "Suffix Array"
+  ],
+  "Last Stone Weight": [
+    "Heap",
+    "Greedy"
+  ],
+  "Remove All Adjacent Duplicates In String": [
+    "Stack"
+  ],
+  "Longest String Chain": [
+    "Hash Table",
+    "Dynamic Programming"
+  ],
+  "Last Stone Weight II": [
+    "Dynamic Programming"
+  ],
+  "Height Checker": [
+    "Array"
+  ],
+  "Grumpy Bookstore Owner": [
+    "Array",
+    "Sliding Window"
+  ],
+  "Previous Permutation With One Swap": [
+    "Array",
+    "Greedy"
+  ],
+  "Distant Barcodes": [
+    "Heap",
+    "Sort"
+  ],
+  "Shortest Way to Form String": [
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "Confusing Number": [
+    "Math"
+  ],
+  "Campus Bikes": [
+    "Greedy",
+    "Sort"
+  ],
+  "Minimize Rounding Error to Meet Target": [
+    "Math",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "All Paths from Source Lead to Destination": [
+    "Depth-first Search",
+    "Graph"
+  ],
+  "Missing Element in Sorted Array": [
+    "Binary Search"
+  ],
+  "Longest Repeating Substring": [
+    "String"
+  ],
+  "Number of Valid Subarrays": [
+    "Stack"
+  ],
+  "Fixed Point": [
+    "Array",
+    "Binary Search"
+  ],
+  "Index Pairs of a String": [
+    "String",
+    "Trie"
+  ],
+  "Campus Bikes II": [
+    "Dynamic Programming",
+    "Backtracking"
+  ],
+  "Digit Count in Range": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "Greatest Common Divisor of Strings": [
+    "String"
+  ],
+  "Adding Two Negabinary Numbers": [
+    "Math"
+  ],
+  "Number of Submatrices That Sum to Target": [
+    "Array",
+    "Dynamic Programming",
+    "Sliding Window"
+  ],
+  "Occurrences After Bigram": [
+    "Hash Table"
+  ],
+  "Letter Tile Possibilities": [
+    "Backtracking"
+  ],
+  "Insufficient Nodes in Root to Leaf Paths": [
+    "Depth-first Search"
+  ],
+  "Smallest Subsequence of Distinct Characters": [
+    "String",
+    "Stack",
+    "Greedy"
+  ],
+  "Sum of Digits in the Minimum Number": [
+    "Array"
+  ],
+  "High Five": [
+    "Array",
+    "Hash Table",
+    "Sort"
+  ],
+  "Brace Expansion": [
+    "Backtracking"
+  ],
+  "Confusing Number II": [
+    "Math",
+    "Backtracking"
+  ],
+  "Duplicate Zeros": [
+    "Array"
+  ],
+  "Largest Values From Labels": [
+    "Hash Table",
+    "Greedy"
+  ],
+  "Shortest Path in Binary Matrix": [
+    "Breadth-first Search"
+  ],
+  "Shortest Common Supersequence": [
+    "Dynamic Programming"
+  ],
+  "Statistics from a Large Sample": [
+    "Math",
+    "Two Pointers"
+  ],
+  "Car Pooling": [
+    "Greedy"
+  ],
+  "Find in Mountain Array": [
+    "Binary Search"
+  ],
+  "Brace Expansion II": [
+    "String"
+  ],
+  "Two Sum Less Than K": [
+    "Array",
+    "Two Pointers",
+    "Sort"
+  ],
+  "Find K-Length Substrings With No Repeated Characters": [
+    "String",
+    "Sliding Window"
+  ],
+  "The Earliest Moment When Everyone Become Friends": [
+    "Union Find"
+  ],
+  "Path With Maximum Minimum Value": [
+    "Depth-first Search",
+    "Union Find",
+    "Graph"
+  ],
+  "Path In Zigzag Labelled Binary Tree": [
+    "Math",
+    "Tree"
+  ],
+  "Filling Bookcase Shelves": [
+    "Dynamic Programming"
+  ],
+  "Parsing A Boolean Expression": [
+    "String"
+  ],
+  "Defanging an IP Address": [
+    "String"
+  ],
+  "Corporate Flight Bookings": [
+    "Array",
+    "Math"
+  ],
+  "Delete Nodes And Return Forest": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Maximum Nesting Depth of Two Valid Parentheses Strings": [
+    "Binary Search",
+    "Greedy"
+  ],
+  "Remove Vowels from a String": [
+    "String"
+  ],
+  "Maximum Average Subtree": [
+    "Tree"
+  ],
+  "Divide Array Into Increasing Sequences": [
+    "Math"
+  ],
+  "Relative Sort Array": [
+    "Array",
+    "Sort"
+  ],
+  "Lowest Common Ancestor of Deepest Leaves": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Longest Well-Performing Interval": [
+    "Stack"
+  ],
+  "Smallest Sufficient Team": [
+    "Dynamic Programming",
+    "Bit Manipulation"
+  ],
+  "Number of Equivalent Domino Pairs": [
+    "Array"
+  ],
+  "Shortest Path with Alternating Colors": [
+    "Breadth-first Search",
+    "Graph"
+  ],
+  "Minimum Cost Tree From Leaf Values": [
+    "Dynamic Programming",
+    "Stack",
+    "Tree"
+  ],
+  "Maximum of Absolute Value Expression": [
+    "Math",
+    "Bit Manipulation"
+  ],
+  "Largest Unique Number": [
+    "Array",
+    "Hash Table"
+  ],
+  "Armstrong Number": [
+    "Math"
+  ],
+  "Connecting Cities With Minimum Cost": [
+    "Union Find",
+    "Graph"
+  ],
+  "Parallel Courses": [
+    "Dynamic Programming",
+    "Depth-first Search",
+    "Graph"
+  ],
+  "N-th Tribonacci Number": [
+    "Recursion"
+  ],
+  "Alphabet Board Path": [
+    "Hash Table",
+    "String"
+  ],
+  "Largest 1-Bordered Square": [
+    "Dynamic Programming"
+  ],
+  "Stone Game II": [
+    "Dynamic Programming"
+  ],
+  "Longest Common Subsequence": [
+    "Dynamic Programming"
+  ],
+  "Decrease Elements To Make Array Zigzag": [
+    "Array"
+  ],
+  "Binary Tree Coloring Game": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Snapshot Array": [
+    "Array"
+  ],
+  "Longest Chunked Palindrome Decomposition": [
+    "Dynamic Programming",
+    "Rolling Hash"
+  ],
+  "Check If a Number Is Majority Element in a Sorted Array": [
+    "Array",
+    "Binary Search"
+  ],
+  "Minimum Swaps to Group All 1's Together": [
+    "Array",
+    "Sliding Window"
+  ],
+  "Analyze User Website Visit Pattern": [
+    "Array",
+    "Hash Table",
+    "Sort"
+  ],
+  "String Transforms Into Another String": [
+    "Graph"
+  ],
+  "Day of the Year": [
+    "Math"
+  ],
+  "Number of Dice Rolls With Target Sum": [
+    "Dynamic Programming"
+  ],
+  "Swap For Longest Repeated Character Substring": [
+    "String"
+  ],
+  "Online Majority Element In Subarray": [
+    "Array",
+    "Binary Search",
+    "Segment Tree"
+  ],
+  "Find Words That Can Be Formed by Characters": [
+    "Array",
+    "Hash Table"
+  ],
+  "Maximum Level Sum of a Binary Tree": [
+    "Tree",
+    "Breadth-first Search"
+  ],
+  "As Far from Land as Possible": [
+    "Breadth-first Search",
+    "Graph"
+  ],
+  "Last Substring in Lexicographical Order": [
+    "String",
+    "Suffix Array"
+  ],
+  "Single-Row Keyboard": [
+    "String"
+  ],
+  "Design File System": [
+    "Hash Table",
+    "Design"
+  ],
+  "Minimum Cost to Connect Sticks": [
+    "Greedy"
+  ],
+  "Optimize Water Distribution in a Village": [
+    "Union Find",
+    "Graph"
+  ],
+  "Invalid Transactions": [
+    "Array",
+    "String"
+  ],
+  "Compare Strings by Frequency of the Smallest Character": [
+    "Array",
+    "String",
+    "Binary Search"
+  ],
+  "Remove Zero Sum Consecutive Nodes from Linked List": [
+    "Linked List"
+  ],
+  "Dinner Plate Stacks": [
+    "Design"
+  ],
+  "Prime Arrangements": [
+    "Math"
+  ],
+  "Diet Plan Performance": [
+    "Array",
+    "Sliding Window"
+  ],
+  "Can Make Palindrome from Substring": [
+    "Array",
+    "String"
+  ],
+  "Number of Valid Words for Each Puzzle": [
+    "Hash Table",
+    "Bit Manipulation"
+  ],
+  "Count Substrings with Only One Distinct Letter": [
+    "Math",
+    "String"
+  ],
+  "Before and After Puzzle": [
+    "String"
+  ],
+  "Shortest Distance to Target Color": [
+    "Binary Search"
+  ],
+  "Maximum Number of Ones": [
+    "Math",
+    "Sort"
+  ],
+  "Distance Between Bus Stops": [
+    "Array"
+  ],
+  "Day of the Week": [
+    "Array"
+  ],
+  "Maximum Subarray Sum with One Deletion": [
+    "Dynamic Programming"
+  ],
+  "Maximum Number of Balloons": [
+    "Hash Table",
+    "String"
+  ],
+  "Reverse Substrings Between Each Pair of Parentheses": [
+    "Stack"
+  ],
+  "K-Concatenation Maximum Sum": [
+    "Dynamic Programming"
+  ],
+  "Critical Connections in a Network": [
+    "Depth-first Search"
+  ],
+  "How Many Apples Can You Put into the Basket": [
+    "Greedy"
+  ],
+  "Minimum Knight Moves": [
+    "Breadth-first Search"
+  ],
+  "Find Smallest Common Element in All Rows": [
+    "Hash Table",
+    "Binary Search"
+  ],
+  "Minimum Time to Build Blocks": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "Minimum Absolute Difference": [
+    "Array"
+  ],
+  "Ugly Number III": [
+    "Math",
+    "Binary Search"
+  ],
+  "Smallest String With Swaps": [
+    "Array",
+    "Union Find"
+  ],
+  "Sort Items by Groups Respecting Dependencies": [
+    "Depth-first Search",
+    "Graph",
+    "Topological Sort"
+  ],
+  "Design Skiplist": [
+    "Design"
+  ],
+  "Unique Number of Occurrences": [
+    "Hash Table"
+  ],
+  "Get Equal Substrings Within Budget": [
+    "Array",
+    "Sliding Window"
+  ],
+  "Remove All Adjacent Duplicates in String II": [
+    "Stack"
+  ],
+  "Minimum Moves to Reach Target with Rotations": [
+    "Breadth-first Search"
+  ],
+  "Intersection of Three Sorted Arrays": [
+    "Hash Table",
+    "Two Pointers"
+  ],
+  "Two Sum BSTs": [
+    "Binary Search Tree"
+  ],
+  "Stepping Numbers": [
+    "Backtracking"
+  ],
+  "Valid Palindrome III": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "Minimum Cost to Move Chips to The Same Position": [
+    "Array",
+    "Math",
+    "Greedy"
+  ],
+  "Longest Arithmetic Subsequence of Given Difference": [
+    "Hash Table",
+    "Math",
+    "Dynamic Programming"
+  ],
+  "Path with Maximum Gold": [
+    "Backtracking"
+  ],
+  "Count Vowels Permutation": [
+    "Dynamic Programming"
+  ],
+  "Split a String in Balanced Strings": [
+    "String",
+    "Greedy"
+  ],
+  "Queens That Can Attack the King": [
+    "Array"
+  ],
+  "Dice Roll Simulation": [
+    "Dynamic Programming"
+  ],
+  "Maximum Equal Frequency": [
+    "Hash Table"
+  ],
+  "Airplane Seat Assignment Probability": [
+    "Math",
+    "Dynamic Programming",
+    "Brainteaser"
+  ],
+  "Missing Number In Arithmetic Progression": [
+    "Math"
+  ],
+  "Meeting Scheduler": [
+    "Two Pointers",
+    "Sort",
+    "Line Sweep"
+  ],
+  "Toss Strange Coins": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "Divide Chocolate": [
+    "Binary Search",
+    "Greedy"
+  ],
+  "Check If It Is a Straight Line": [
+    "Array",
+    "Math",
+    "Geometry"
+  ],
+  "Remove Sub-Folders from the Filesystem": [
+    "Array",
+    "String"
+  ],
+  "Replace the Substring for Balanced String": [
+    "Two Pointers",
+    "String"
+  ],
+  "Maximum Profit in Job Scheduling": [
+    "Binary Search",
+    "Dynamic Programming",
+    "Sort"
+  ],
+  "Web Crawler": [
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Find Positive Integer Solution for a Given Equation": [
+    "Math",
+    "Binary Search"
+  ],
+  "Circular Permutation in Binary Representation": [
+    "Math"
+  ],
+  "Maximum Length of a Concatenated String with Unique Characters": [
+    "Backtracking",
+    "Bit Manipulation"
+  ],
+  "Tiling a Rectangle with the Fewest Squares": [
+    "Dynamic Programming",
+    "Backtracking"
+  ],
+  "Web Crawler Multithreaded": [
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Array Transformation": [
+    "Array"
+  ],
+  "Design A Leaderboard": [
+    "Hash Table",
+    "Sort",
+    "Design"
+  ],
+  "Tree Diameter": [
+    "Tree",
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Palindrome Removal": [
+    "Dynamic Programming"
+  ],
+  "Minimum Swaps to Make Strings Equal": [
+    "String",
+    "Greedy"
+  ],
+  "Count Number of Nice Subarrays": [
+    "Two Pointers"
+  ],
+  "Minimum Remove to Make Valid Parentheses": [
+    "String",
+    "Stack"
+  ],
+  "Check If It Is a Good Array": [
+    "Math"
+  ],
+  "Reconstruct a 2-Row Binary Matrix": [
+    "Math",
+    "Greedy"
+  ],
+  "Number of Closed Islands": [
+    "Depth-first Search"
+  ],
+  "Maximum Score Words Formed by Letters": [
+    "Bit Manipulation"
+  ],
+  "Encode Number": [
+    "Math",
+    "Bit Manipulation"
+  ],
+  "Smallest Common Region": [
+    "Tree"
+  ],
+  "Synonymous Sentences": [
+    "Backtracking"
+  ],
+  "Handshakes That Don't Cross": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "Shift 2D Grid": [
+    "Array"
+  ],
+  "Find Elements in a Contaminated Binary Tree": [
+    "Hash Table",
+    "Tree"
+  ],
+  "Greatest Sum Divisible by Three": [
+    "Dynamic Programming"
+  ],
+  "Minimum Time Visiting All Points": [
+    "Array",
+    "Geometry"
+  ],
+  "Count Servers that Communicate": [
+    "Array",
+    "Graph"
+  ],
+  "Search Suggestions System": [
+    "String"
+  ],
+  "Number of Ways to Stay in the Same Place After Some Steps": [
+    "Dynamic Programming"
+  ],
+  "Hexspeak": [
+    "Math",
+    "String"
+  ],
+  "Remove Interval": [
+    "Math",
+    "Line Sweep"
+  ],
+  "Delete Tree Nodes": [
+    "Dynamic Programming",
+    "Depth-first Search"
+  ],
+  "Number of Ships in a Rectangle": [
+    "Divide and Conquer"
+  ],
+  "Find Winner on a Tic Tac Toe Game": [
+    "Array"
+  ],
+  "Number of Burgers with No Waste of Ingredients": [
+    "Math",
+    "Greedy"
+  ],
+  "Count Square Submatrices with All Ones": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "Palindrome Partitioning III": [
+    "Dynamic Programming"
+  ],
+  "Subtract the Product and Sum of Digits of an Integer": [
+    "Math"
+  ],
+  "Group the People Given the Group Size They Belong To": [
+    "Greedy"
+  ],
+  "Find the Smallest Divisor Given a Threshold": [
+    "Binary Search"
+  ],
+  "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix": [
+    "Breadth-first Search"
+  ],
+  "Iterator for Combination": [
+    "Backtracking",
+    "Design"
+  ],
+  "Element Appearing More Than 25% In Sorted Array": [
+    "Array"
+  ],
+  "Remove Covered Intervals": [
+    "Greedy",
+    "Sort",
+    "Line Sweep"
+  ],
+  "Minimum Falling Path Sum II": [
+    "Dynamic Programming"
+  ],
+  "Convert Binary Number in a Linked List to Integer": [
+    "Linked List",
+    "Bit Manipulation"
+  ],
+  "Sequential Digits": [
+    "Backtracking"
+  ],
+  "Maximum Side Length of a Square with Sum Less than or Equal to Threshold": [
+    "Array",
+    "Binary Search"
+  ],
+  "Shortest Path in a Grid with Obstacles Elimination": [
+    "Breadth-first Search"
+  ],
+  "Find Numbers with Even Number of Digits": [
+    "Array"
+  ],
+  "Divide Array in Sets of K Consecutive Numbers": [
+    "Array",
+    "Greedy"
+  ],
+  "Maximum Number of Occurrences of a Substring": [
+    "String",
+    "Bit Manipulation"
+  ],
+  "Maximum Candies You Can Get from Boxes": [
+    "Breadth-first Search"
+  ],
+  "Replace Elements with Greatest Element on Right Side": [
+    "Array"
+  ],
+  "Sum of Mutated Array Closest to Target": [
+    "Array",
+    "Binary Search"
+  ],
+  "Number of Paths with Max Score": [
+    "Dynamic Programming"
+  ],
+  "Deepest Leaves Sum": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Find N Unique Integers Sum up to Zero": [
+    "Array"
+  ],
+  "All Elements in Two Binary Search Trees": [
+    "Sort",
+    "Tree"
+  ],
+  "Jump Game III": [
+    "Depth-first Search",
+    "Breadth-first Search",
+    "Recursion"
+  ],
+  "Verbal Arithmetic Puzzle": [
+    "Math",
+    "Backtracking"
+  ],
+  "Decrypt String from Alphabet to Integer Mapping": [
+    "String"
+  ],
+  "XOR Queries of a Subarray": [
+    "Bit Manipulation"
+  ],
+  "Get Watched Videos by Your Friends": [
+    "Hash Table",
+    "String",
+    "Breadth-first Search"
+  ],
+  "Minimum Insertion Steps to Make a String Palindrome": [
+    "Dynamic Programming"
+  ],
+  "Decompress Run-Length Encoded List": [
+    "Array"
+  ],
+  "Matrix Block Sum": [
+    "Dynamic Programming"
+  ],
+  "Sum of Nodes with Even-Valued Grandparent": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Distinct Echo Substrings": [
+    "String",
+    "Rolling Hash"
+  ],
+  "Convert Integer to the Sum of Two No-Zero Integers": [
+    "Math"
+  ],
+  "Minimum Flips to Make a OR b Equal to c": [
+    "Bit Manipulation"
+  ],
+  "Number of Operations to Make Network Connected": [
+    "Depth-first Search",
+    "Breadth-first Search",
+    "Union Find"
+  ],
+  "Minimum Distance to Type a Word Using Two Fingers": [
+    "Dynamic Programming"
+  ],
+  "Maximum 69 Number": [
+    "Math"
+  ],
+  "Print Words Vertically": [
+    "String"
+  ],
+  "Delete Leaves With a Given Value": [
+    "Tree"
+  ],
+  "Minimum Number of Taps to Open to Water a Garden": [
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "Break a Palindrome": [
+    "String"
+  ],
+  "Sort the Matrix Diagonally": [
+    "Array",
+    "Sort"
+  ],
+  "Reverse Subarray To Maximize Array Value": [
+    "Array",
+    "Math"
+  ],
+  "Rank Transform of an Array": [
+    "Array"
+  ],
+  "Remove Palindromic Subsequences": [
+    "String"
+  ],
+  "Filter Restaurants by Vegan-Friendly, Price and Distance": [
+    "Array",
+    "Sort"
+  ],
+  "Find the City With the Smallest Number of Neighbors at a Threshold Distance": [
+    "Graph"
+  ],
+  "Minimum Difficulty of a Job Schedule": [
+    "Dynamic Programming"
+  ],
+  "The K Weakest Rows in a Matrix": [
+    "Array",
+    "Binary Search"
+  ],
+  "Reduce Array Size to The Half": [
+    "Array",
+    "Greedy"
+  ],
+  "Maximum Product of Splitted Binary Tree": [
+    "Dynamic Programming",
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Jump Game V": [
+    "Dynamic Programming"
+  ],
+  "Number of Steps to Reduce a Number to Zero": [
+    "Bit Manipulation"
+  ],
+  "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold": [
+    "Array"
+  ],
+  "Angle Between Hands of a Clock": [
+    "Math"
+  ],
+  "Jump Game IV": [
+    "Breadth-first Search"
+  ],
+  "Check If N and Its Double Exist": [
+    "Array"
+  ],
+  "Minimum Number of Steps to Make Two Strings Anagram": [
+    "String"
+  ],
+  "Tweet Counts Per Frequency": [
+    "Design"
+  ],
+  "Maximum Students Taking Exam": [
+    "Dynamic Programming"
+  ],
+  "Count Negative Numbers in a Sorted Matrix": [
+    "Array",
+    "Binary Search"
+  ],
+  "Product of the Last K Numbers": [
+    "Array",
+    "Design"
+  ],
+  "Maximum Number of Events That Can Be Attended": [
+    "Greedy",
+    "Sort",
+    "Segment Tree"
+  ],
+  "Construct Target Array With Multiple Sums": [
+    "Greedy"
+  ],
+  "Sort Integers by The Number of 1 Bits": [
+    "Sort",
+    "Bit Manipulation"
+  ],
+  "Apply Discount Every n Orders": [
+    "Design"
+  ],
+  "Number of Substrings Containing All Three Characters": [
+    "String"
+  ],
+  "Count All Valid Pickup and Delivery Options": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "Validate Binary Tree Nodes": [
+    "Graph"
+  ],
+  "Closest Divisors": [
+    "Math"
+  ],
+  "Largest Multiple of Three": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "How Many Numbers Are Smaller Than the Current Number": [
+    "Array",
+    "Hash Table"
+  ],
+  "Rank Teams by Votes": [
+    "Array",
+    "Sort"
+  ],
+  "Linked List in Binary Tree": [
+    "Linked List",
+    "Dynamic Programming",
+    "Tree"
+  ],
+  "Minimum Cost to Make at Least One Valid Path in a Grid": [
+    "Breadth-first Search"
+  ],
+  "Increasing Decreasing String": [
+    "String",
+    "Sort"
+  ],
+  "Find the Longest Substring Containing Vowels in Even Counts": [
+    "String"
+  ],
+  "Longest ZigZag Path in a Binary Tree": [
+    "Dynamic Programming",
+    "Tree"
+  ],
+  "Maximum Sum BST in Binary Tree": [
+    "Dynamic Programming",
+    "Binary Search Tree"
+  ],
+  "Generate a String With Characters That Have Odd Counts": [
+    "String"
+  ],
+  "Bulb Switcher III": [
+    "Array"
+  ],
+  "Time Needed to Inform All Employees": [
+    "Depth-first Search"
+  ],
+  "Frog Position After T Seconds": [
+    "Depth-first Search"
+  ],
+  "Find a Corresponding Node of a Binary Tree in a Clone of That Tree": [
+    "Tree",
+    "Depth-first Search",
+    "Breadth-first Search",
+    "Recursion"
+  ],
+  "Lucky Numbers in a Matrix": [
+    "Array"
+  ],
+  "Design a Stack With Increment Operation": [
+    "Stack",
+    "Design"
+  ],
+  "Balance a Binary Search Tree": [
+    "Binary Search Tree"
+  ],
+  "Maximum Performance of a Team": [
+    "Greedy",
+    "Sort"
+  ],
+  "Cinema Seat Allocation": [
+    "Array",
+    "Greedy"
+  ],
+  "Sort Integers by The Power Value": [
+    "Sort",
+    "Graph"
+  ],
+  "Pizza With 3n Slices": [
+    "Dynamic Programming"
+  ],
+  "Create Target Array in the Given Order": [
+    "Array"
+  ],
+  "Four Divisors": [
+    "Math"
+  ],
+  "Check if There is a Valid Path in a Grid": [
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Longest Happy Prefix": [
+    "String"
+  ],
+  "Find Lucky Integer in an Array": [
+    "Array"
+  ],
+  "Count Number of Teams": [
+    "Array"
+  ],
+  "Design Underground System": [
+    "Design"
+  ],
+  "Find All Good Strings": [
+    "Dynamic Programming"
+  ],
+  "Count Largest Group": [
+    "Array"
+  ],
+  "Construct K Palindrome Strings": [
+    "Greedy"
+  ],
+  "Circle and Rectangle Overlapping": [
+    "Geometry"
+  ],
+  "Reducing Dishes": [
+    "Dynamic Programming"
+  ],
+  "Minimum Subsequence in Non-Increasing Order": [
+    "Greedy",
+    "Sort"
+  ],
+  "Number of Steps to Reduce a Number in Binary Representation to One": [
+    "String",
+    "Bit Manipulation"
+  ],
+  "Longest Happy String": [
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "Stone Game III": [
+    "Dynamic Programming"
+  ],
+  "String Matching in an Array": [
+    "String"
+  ],
+  "Queries on a Permutation With Key": [
+    "Array"
+  ],
+  "HTML Entity Parser": [
+    "String",
+    "Stack"
+  ],
+  "Number of Ways to Paint N \u00d7 3 Grid": [
+    "Dynamic Programming"
+  ],
+  "Minimum Value to Get Positive Step by Step Sum": [
+    "Array"
+  ],
+  "Find the Minimum Number of Fibonacci Numbers Whose Sum Is K": [
+    "Array",
+    "Greedy"
+  ],
+  "The k-th Lexicographical String of All Happy Strings of Length n": [
+    "Backtracking"
+  ],
+  "Restore The Array": [
+    "Dynamic Programming"
+  ],
+  "Reformat The String": [
+    "String"
+  ],
+  "Display Table of Food Orders in a Restaurant": [
+    "Hash Table"
+  ],
+  "Minimum Number of Frogs Croaking": [
+    "String"
+  ],
+  "Build Array Where You Can Find The Maximum Exactly K Comparisons": [
+    "Dynamic Programming"
+  ],
+  "Maximum Score After Splitting a String": [
+    "String"
+  ],
+  "Maximum Points You Can Obtain from Cards": [
+    "Array",
+    "Dynamic Programming",
+    "Sliding Window"
+  ],
+  "Diagonal Traverse II": [
+    "Array",
+    "Sort"
+  ],
+  "Constrained Subsequence Sum": [
+    "Dynamic Programming"
+  ],
+  "Counting Elements": [
+    "Array"
+  ],
+  "Perform String Shifts": [
+    "Array",
+    "Math"
+  ],
+  "Leftmost Column with at Least a One": [
+    "Array"
+  ],
+  "First Unique Number": [
+    "Hash Table",
+    "Design"
+  ],
+  "Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree": [
+    "Tree"
+  ],
+  "Kids With the Greatest Number of Candies": [
+    "Array"
+  ],
+  "Max Difference You Can Get From Changing an Integer": [
+    "String"
+  ],
+  "Check If a String Can Break Another String": [
+    "String",
+    "Greedy"
+  ],
+  "Number of Ways to Wear Different Hats to Each Other": [
+    "Dynamic Programming",
+    "Bit Manipulation"
+  ],
+  "Destination City": [
+    "String"
+  ],
+  "Check If All 1's Are at Least Length K Places Away": [
+    "Array"
+  ],
+  "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit": [
+    "Array",
+    "Sliding Window"
+  ],
+  "Find the Kth Smallest Sum of a Matrix With Sorted Rows": [
+    "Heap"
+  ],
+  "Build an Array With Stack Operations": [
+    "Stack"
+  ],
+  "Minimum Time to Collect All Apples in a Tree": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Number of Ways of Cutting a Pizza": [
+    "Dynamic Programming"
+  ],
+  "Consecutive Characters": [
+    "String"
+  ],
+  "Simplified Fractions": [
+    "Math"
+  ],
+  "Count Good Nodes in Binary Tree": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Form Largest Integer With Digits That Add up to Target": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "Rearrange Words in a Sentence": [
+    "String",
+    "Sort"
+  ],
+  "People Whose List of Favorite Companies Is Not a Subset of Another List": [
+    "String",
+    "Sort"
+  ],
+  "Maximum Number of Darts Inside of a Circular Dartboard": [
+    "Geometry"
+  ],
+  "Check If a Word Occurs As a Prefix of Any Word in a Sentence": [
+    "String"
+  ],
+  "Maximum Number of Vowels in a Substring of Given Length": [
+    "String",
+    "Sliding Window"
+  ],
+  "Pseudo-Palindromic Paths in a Binary Tree": [
+    "Bit Manipulation",
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Max Dot Product of Two Subsequences": [
+    "Dynamic Programming"
+  ],
+  "Make Two Arrays Equal by Reversing Sub-arrays": [
+    "Array"
+  ],
+  "Check If a String Contains All Binary Codes of Size K": [
+    "String",
+    "Bit Manipulation"
+  ],
+  "Course Schedule IV": [
+    "Graph"
+  ],
+  "Cherry Pickup II": [
+    "Dynamic Programming"
+  ],
+  "Maximum Product of Two Elements in an Array": [
+    "Array"
+  ],
+  "Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts": [
+    "Array"
+  ],
+  "Reorder Routes to Make All Paths Lead to the City Zero": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Find All The Lonely Nodes": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Shuffle the Array": [
+    "Array"
+  ],
+  "The k Strongest Values in an Array": [
+    "Array",
+    "Sort"
+  ],
+  "Design Browser History": [
+    "Design"
+  ],
+  "Paint House III": [
+    "Dynamic Programming"
+  ],
+  "Delete N Nodes After M Nodes of a Linked List": [
+    "Linked List"
+  ],
+  "Final Prices With a Special Discount in a Shop": [
+    "Array"
+  ],
+  "Subrectangle Queries": [
+    "Array"
+  ],
+  "Find Two Non-overlapping Sub-arrays Each With Target Sum": [
+    "Dynamic Programming"
+  ],
+  "Allocate Mailboxes": [
+    "Math",
+    "Dynamic Programming"
+  ],
+  "Running Sum of 1d Array": [
+    "Array"
+  ],
+  "Least Number of Unique Integers after K Removals": [
+    "Array",
+    "Sort"
+  ],
+  "Minimum Number of Days to Make m Bouquets": [
+    "Array",
+    "Binary Search"
+  ],
+  "Kth Ancestor of a Tree Node": [
+    "Dynamic Programming"
+  ],
+  "Clone Binary Tree With Random Pointer": [
+    "Hash Table",
+    "Tree",
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "XOR Operation in an Array": [
+    "Array",
+    "Bit Manipulation"
+  ],
+  "Making File Names Unique": [
+    "Hash Table",
+    "String"
+  ],
+  "Avoid Flood in The City": [
+    "Array",
+    "Hash Table"
+  ],
+  "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree": [
+    "Depth-first Search",
+    "Union Find"
+  ],
+  "Clone N-ary Tree": [
+    "Hash Table",
+    "Tree",
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Average Salary Excluding the Minimum and Maximum Salary": [
+    "Array",
+    "Sort"
+  ],
+  "The kth Factor of n": [
+    "Math"
+  ],
+  "Longest Subarray of 1's After Deleting One Element": [
+    "Array"
+  ],
+  "Parallel Courses II": [
+    "Graph"
+  ],
+  "Path Crossing": [
+    "String"
+  ],
+  "Check If Array Pairs Are Divisible by k": [
+    "Array",
+    "Math",
+    "Greedy"
+  ],
+  "Number of Subsequences That Satisfy the Given Sum Condition": [
+    "Sort",
+    "Sliding Window"
+  ],
+  "Max Value of Equation": [
+    "Array",
+    "Sliding Window"
+  ],
+  "Design a File Sharing System": [
+    "Array",
+    "Design"
+  ],
+  "Can Make Arithmetic Progression From Sequence": [
+    "Array",
+    "Sort"
+  ],
+  "Last Moment Before All Ants Fall Out of a Plank": [
+    "Array",
+    "Brainteaser"
+  ],
+  "Count Submatrices With All Ones": [
+    "Dynamic Programming"
+  ],
+  "Minimum Possible Integer After at Most K Adjacent Swaps On Digits": [
+    "Greedy"
+  ],
+  "Reformat Date": [
+    "String"
+  ],
+  "Range Sum of Sorted Subarray Sums": [
+    "Array",
+    "Sort"
+  ],
+  "Minimum Difference Between Largest and Smallest Value in Three Moves": [
+    "Array",
+    "Sort"
+  ],
+  "Stone Game IV": [
+    "Dynamic Programming"
+  ],
+  "Number of Good Pairs": [
+    "Array",
+    "Hash Table",
+    "Math"
+  ],
+  "Number of Substrings With Only 1s": [
+    "Math",
+    "String"
+  ],
+  "Path with Maximum Probability": [
+    "Graph"
+  ],
+  "Best Position for a Service Centre": [
+    "Geometry"
+  ],
+  "Move Sub-Tree of N-Ary Tree": [
+    "Tree"
+  ],
+  "Water Bottles": [
+    "Greedy"
+  ],
+  "Number of Nodes in the Sub-Tree With the Same Label": [
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Maximum Number of Non-Overlapping Substrings": [
+    "Greedy"
+  ],
+  "Find a Value of a Mysterious Function Closest to Target": [
+    "Binary Search",
+    "Bit Manipulation",
+    "Segment Tree"
+  ],
+  "Count Odd Numbers in an Interval Range": [
+    "Math"
+  ],
+  "Number of Sub-arrays With Odd Sum": [
+    "Array",
+    "Math"
+  ],
+  "Number of Good Ways to Split a String": [
+    "String",
+    "Bit Manipulation"
+  ],
+  "Minimum Number of Increments on Subarrays to Form a Target Array": [
+    "Segment Tree"
+  ],
+  "Shuffle String": [
+    "Sort"
+  ],
+  "Bulb Switcher IV": [
+    "String"
+  ],
+  "Number of Good Leaf Nodes Pairs": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "String Compression II": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "Find the Index of the Large Integer": [
+    "Binary Search"
+  ],
+  "Count Good Triplets": [
+    "Array"
+  ],
+  "Find the Winner of an Array Game": [
+    "Array"
+  ],
+  "Minimum Swaps to Arrange a Binary Grid": [
+    "Greedy"
+  ],
+  "Get the Maximum Score": [
+    "Dynamic Programming"
+  ],
+  "Kth Missing Positive Number": [
+    "Array",
+    "Hash Table"
+  ],
+  "Can Convert String in K Moves": [
+    "String",
+    "Greedy"
+  ],
+  "Minimum Insertions to Balance a Parentheses String": [
+    "String",
+    "Stack"
+  ],
+  "Find Longest Awesome Substring": [
+    "String",
+    "Bit Manipulation"
+  ],
+  "Make The String Great": [
+    "String",
+    "Stack"
+  ],
+  "Find Kth Bit in Nth Binary String": [
+    "String"
+  ],
+  "Maximum Number of Non-Overlapping Subarrays With Sum Equals Target": [
+    "Dynamic Programming"
+  ],
+  "Minimum Cost to Cut a Stick": [
+    "Dynamic Programming"
+  ],
+  "The Most Similar Path in a Graph": [
+    "Dynamic Programming",
+    "Graph"
+  ],
+  "Three Consecutive Odds": [
+    "Array"
+  ],
+  "Minimum Operations to Make Array Equal": [
+    "Math"
+  ],
+  "Magnetic Force Between Two Balls": [
+    "Array",
+    "Binary Search"
+  ],
+  "Minimum Number of Days to Eat N Oranges": [
+    "Dynamic Programming"
+  ],
+  "Minimum Number of Vertices to Reach All Nodes": [
+    "Graph"
+  ],
+  "Minimum Numbers of Function Calls to Make Target Array": [
+    "Greedy"
+  ],
+  "Detect Cycles in 2D Grid": [
+    "Depth-first Search"
+  ],
+  "Most Visited Sector in  a Circular Track": [
+    "Array"
+  ],
+  "Find Latest Group of Size M": [
+    "Binary Search"
+  ],
+  "Put Boxes Into the Warehouse I": [
+    "Greedy"
+  ],
+  "Detect Pattern of Length M Repeated K or More Times": [
+    "Array"
+  ],
+  "Maximum Length of Subarray With Positive Product": [
+    "Greedy"
+  ],
+  "Minimum Number of Days to Disconnect Island": [
+    "Greedy"
+  ],
+  "Number of Ways to Reorder Array to Get Same BST": [
+    "Dynamic Programming"
+  ],
+  "Dot Product of Two Sparse Vectors": [
+    "Array",
+    "Hash Table",
+    "Two Pointers"
+  ],
+  "Matrix Diagonal Sum": [
+    "Array"
+  ],
+  "Number of Ways to Split a String": [
+    "String"
+  ],
+  "Shortest Subarray to be Removed to Make Array Sorted": [
+    "Array",
+    "Binary Search"
+  ],
+  "Count All Possible Routes": [
+    "Dynamic Programming"
+  ],
+  "Replace All ?'s to Avoid Consecutive Repeating Characters": [
+    "String"
+  ],
+  "Minimum Deletion Cost to Avoid Repeating Letters": [
+    "Greedy"
+  ],
+  "Remove Max Number of Edges to Keep Graph Fully Traversable": [
+    "Union Find"
+  ],
+  "Put Boxes Into the Warehouse II": [
+    "Greedy"
+  ],
+  "Special Positions in a Binary Matrix": [
+    "Array"
+  ],
+  "Count Unhappy Friends": [
+    "Array"
+  ],
+  "Min Cost to Connect All Points": [
+    "Union Find"
+  ],
+  "Check If String Is Transformable With Substring Sort Operations": [
+    "String",
+    "Greedy"
+  ],
+  "Binary Search Tree Iterator II": [
+    "Tree",
+    "Design"
+  ],
+  "Sum of All Odd Length Subarrays": [
+    "Array"
+  ],
+  "Maximum Sum Obtained of Any Permutation": [
+    "Greedy"
+  ],
+  "Make Sum Divisible by P": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Binary Search"
+  ],
+  "Strange Printer II": [
+    "Greedy"
+  ],
+  "Rearrange Spaces Between Words": [
+    "String"
+  ],
+  "Split a String Into the Max Number of Unique Substrings": [
+    "Backtracking"
+  ],
+  "Maximum Non Negative Product in a Matrix": [
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "Minimum Cost to Connect Two Groups of Points": [
+    "Dynamic Programming",
+    "Graph"
+  ],
+  "Build Binary Expression Tree From Infix Expression": [
+    "String",
+    "Tree"
+  ],
+  "Crawler Log Folder": [
+    "Stack"
+  ],
+  "Maximum Profit of Operating a Centennial Wheel": [
+    "Greedy"
+  ],
+  "Throne Inheritance": [
+    "Tree",
+    "Design"
+  ],
+  "Maximum Number of Achievable Transfer Requests": [
+    "Dynamic Programming"
+  ],
+  "Find Nearest Right Node in Binary Tree": [
+    "Tree",
+    "Breadth-first Search"
+  ],
+  "Design Parking System": [
+    "Design"
+  ],
+  "Alert Using Same Key-Card Three or More Times in a One Hour Period": [
+    "String",
+    "Ordered Map"
+  ],
+  "Find Valid Matrix Given Row and Column Sums": [
+    "Greedy"
+  ],
+  "Find Servers That Handled Most Number of Requests": [
+    "Ordered Map"
+  ],
+  "Special Array With X Elements Greater Than or Equal X": [
+    "Array"
+  ],
+  "Even Odd Tree": [
+    "Tree"
+  ],
+  "Maximum Number of Visible Points": [
+    "Two Pointers",
+    "Geometry"
+  ],
+  "Minimum One Bit Operations to Make Integers Zero": [
+    "Dynamic Programming",
+    "Bit Manipulation"
+  ],
+  "Check If Two Expression Trees are Equivalent": [
+    "Hash Table",
+    "Tree"
+  ],
+  "Maximum Nesting Depth of the Parentheses": [
+    "String"
+  ],
+  "Maximal Network Rank": [
+    "Graph"
+  ],
+  "Split Two Strings to Make Palindrome": [
+    "Two Pointers",
+    "String",
+    "Greedy"
+  ],
+  "Count Subtrees With Max Distance Between Cities": [
+    "Backtracking"
+  ],
+  "Maximum Font to Fit a Sentence in a Screen": [
+    "String",
+    "Binary Search"
+  ],
+  "Mean of Array After Removing Some Elements": [
+    "Array"
+  ],
+  "Coordinate With Maximum Network Quality": [
+    "Greedy"
+  ],
+  "Number of Sets of K Non-Overlapping Line Segments": [
+    "Dynamic Programming"
+  ],
+  "Fancy Sequence": [
+    "Math",
+    "Design"
+  ],
+  "Lexicographically Smallest String After Applying Operations": [
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Best Team With No Conflicts": [
+    "Dynamic Programming"
+  ],
+  "Graph Connectivity With Threshold": [
+    "Math",
+    "Union Find"
+  ],
+  "Design an Expression Tree With Evaluate Function": [
+    "Tree",
+    "Design",
+    "OOP"
+  ],
+  "Slowest Key": [
+    "Array"
+  ],
+  "Arithmetic Subarrays": [
+    "Sort"
+  ],
+  "Path With Minimum Effort": [
+    "Binary Search",
+    "Depth-first Search",
+    "Union Find",
+    "Graph"
+  ],
+  "Rank Transform of a Matrix": [
+    "Greedy",
+    "Union Find"
+  ],
+  "Add Two Polynomials Represented as Linked Lists": [
+    "Linked List"
+  ],
+  "Sort Array by Increasing Frequency": [
+    "Array",
+    "Sort"
+  ],
+  "Widest Vertical Area Between Two Points Containing No Points": [
+    "Sort"
+  ],
+  "Count Substrings That Differ by One Character": [
+    "Hash Table",
+    "String",
+    "Trie",
+    "Rolling Hash"
+  ],
+  "Number of Ways to Form a Target String Given a Dictionary": [
+    "Dynamic Programming"
+  ],
+  "Check Array Formation Through Concatenation": [
+    "Array",
+    "Hash Table",
+    "Sort"
+  ],
+  "Count Sorted Vowel Strings": [
+    "Math",
+    "Dynamic Programming",
+    "Backtracking"
+  ],
+  "Furthest Building You Can Reach": [
+    "Binary Search",
+    "Heap"
+  ],
+  "Kth Smallest Instructions": [
+    "Dynamic Programming"
+  ],
+  "Lowest Common Ancestor of a Binary Tree II": [
+    "Tree"
+  ],
+  "Minimum Deletions to Make Character Frequencies Unique": [
+    "Greedy",
+    "Sort"
+  ],
+  "Sell Diminishing-Valued Colored Balls": [
+    "Math",
+    "Greedy",
+    "Sort"
+  ],
+  "Create Sorted Array through Instructions": [
+    "Binary Search",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Ordered Map"
+  ],
+  "Lowest Common Ancestor of a Binary Tree III": [
+    "Tree"
+  ],
+  "Minimum Deletions to Make String Balanced": [
+    "String",
+    "Greedy"
+  ],
+  "Distribute Repeating Integers": [
+    "Dynamic Programming",
+    "Backtracking"
+  ],
+  "Design an Ordered Stream": [
+    "Array",
+    "Design"
+  ],
+  "Determine if Two Strings Are Close": [
+    "Greedy"
+  ],
+  "Minimum Operations to Reduce X to Zero": [
+    "Two Pointers",
+    "Binary Search",
+    "Greedy",
+    "Sliding Window"
+  ],
+  "Maximize Grid Happiness": [
+    "Dynamic Programming",
+    "Backtracking"
+  ],
+  "Correct a Binary Tree": [
+    "Tree"
+  ],
+  "Check If Two String Arrays are Equivalent": [
+    "String"
+  ],
+  "Smallest String With A Given Numeric Value": [
+    "Greedy"
+  ],
+  "Ways to Make a Fair Array": [
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "Minimum Initial Energy to Finish Tasks": [
+    "Greedy"
+  ],
+  "Change the Root of a Binary Tree": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Maximum Repeating Substring": [
+    "String"
+  ],
+  "Merge In Between Linked Lists": [
+    "Linked List"
+  ],
+  "Design Front Middle Back Queue": [
+    "Linked List",
+    "Design",
+    "Dequeue"
+  ],
+  "Minimum Number of Removals to Make Mountain Array": [
+    "Dynamic Programming"
+  ],
+  "Richest Customer Wealth": [
+    "Array"
+  ],
+  "Find the Most Competitive Subsequence": [
+    "Stack",
+    "Heap",
+    "Greedy",
+    "Queue"
+  ],
+  "Minimum Moves to Make Array Complementary": [
+    "Greedy"
+  ],
+  "Minimize Deviation in Array": [
+    "Heap",
+    "Ordered Map"
+  ],
+  "Lowest Common Ancestor of a Binary Tree IV": [
+    "Tree",
+    "Depth-first Search"
+  ],
+  "Max Number of K-Sum Pairs": [
+    "Hash Table"
+  ],
+  "Concatenation of Consecutive Binary Numbers": [
+    "Math"
+  ],
+  "Minimum Incompatibility": [
+    "Backtracking",
+    "Greedy"
+  ],
+  "Longest Palindromic Subsequence II": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "Count the Number of Consistent Strings": [
+    "String"
+  ],
+  "Stone Game VI": [
+    "Greedy"
+  ],
+  "Delivering Boxes from Storage to Ports": [
+    "Two Pointers",
+    "Dynamic Programming",
+    "Segment Tree",
+    "Dequeue"
+  ],
+  "Partitioning Into Minimum Number Of Deci-Binary Numbers": [
+    "Greedy"
+  ],
+  "Stone Game VII": [
+    "Dynamic Programming"
+  ],
+  "Maximum Height by Stacking Cuboids": [
+    "Dynamic Programming",
+    "Sort"
+  ],
+  "Count Ways to Distribute Candies": [
+    "Dynamic Programming"
+  ],
+  "Reformat Phone Number": [
+    "String"
+  ],
+  "Maximum Erasure Value": [
+    "Two Pointers"
+  ],
+  "Jump Game VI": [
+    "Dequeue"
+  ],
+  "Checking Existence of Edge Length Limited Paths": [
+    "Sort",
+    "Union Find"
+  ],
+  "Number of Distinct Substrings in a String": [
+    "String",
+    "Trie",
+    "Rolling Hash",
+    "Suffix Array"
+  ],
+  "Number of Students Unable to Eat Lunch": [
+    "Array"
+  ],
+  "Average Waiting Time": [
+    "Array"
+  ],
+  "Maximum Binary String After Change": [
+    "Greedy"
+  ],
+  "Minimum Adjacent Swaps for K Consecutive Ones": [
+    "Stack"
+  ],
+  "Maximum Number of Eaten Apples": [
+    "Heap",
+    "Greedy"
+  ],
+  "Where Will the Ball Fall": [
+    "Dynamic Programming"
+  ],
+  "Maximum XOR With an Element From Array": [
+    "Bit Manipulation",
+    "Trie"
+  ],
+  "Largest Subarray Length K": [
+    "Array",
+    "Greedy"
+  ],
+  "Maximum Units on a Truck": [
+    "Greedy",
+    "Sort"
+  ],
+  "Count Good Meals": [
+    "Array",
+    "Hash Table",
+    "Two Pointers"
+  ],
+  "Ways to Split Array Into Three Subarrays": [
+    "Two Pointers",
+    "Binary Search"
+  ],
+  "Minimum Operations to Make a Subsequence": [
+    "Greedy"
+  ],
+  "Calculate Money in Leetcode Bank": [
+    "Math",
+    "Greedy"
+  ],
+  "Maximum Score From Removing Substrings": [
+    "Greedy"
+  ],
+  "Construct the Lexicographically Largest Valid Sequence": [
+    "Backtracking",
+    "Recursion"
+  ],
+  "Number Of Ways To Reconstruct A Tree": [
+    "Tree",
+    "Graph"
+  ],
+  "Swapping Nodes in a Linked List": [
+    "Linked List"
+  ],
+  "Minimize Hamming Distance After Swap Operations": [
+    "Greedy",
+    "Depth-first Search",
+    "Union Find"
+  ],
+  "Find Minimum Time to Finish All Jobs": [
+    "Backtracking",
+    "Recursion"
+  ],
+  "Checking Existence of Edge Length Limited Paths II": [
+    "Dynamic Programming",
+    "Union Find",
+    "Graph"
+  ],
+  "Number Of Rectangles That Can Form The Largest Square": [
+    "Greedy"
+  ],
+  "Tuple with Same Product": [
+    "Array",
+    "Hash Table"
+  ],
+  "Largest Submatrix With Rearrangements": [
+    "Greedy",
+    "Sort"
+  ],
+  "Cat and Mouse II": [
+    "Dynamic Programming"
+  ],
+  "Shortest Path to Get Food": [
+    "Depth-first Search",
+    "Breadth-first Search",
+    "Graph"
+  ],
+  "Minimum Number of People to Teach": [
+    "Array",
+    "Greedy"
+  ],
+  "Decode XORed Permutation": [
+    "Bit Manipulation"
+  ],
+  "Count Ways to Make Array With Product": [
+    "Math"
+  ],
+  "Latest Time by Replacing Hidden Digits": [
+    "String",
+    "Greedy"
+  ],
+  "Change Minimum Characters to Satisfy One of Three Conditions": [
+    "String",
+    "Greedy"
+  ],
+  "Find Kth Largest XOR Coordinate Value": [
+    "Array"
+  ],
+  "Building Boxes": [
+    "Math",
+    "Binary Search"
+  ],
+  "Find Distance in a Binary Tree": [
+    "Tree",
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Maximum Number of Balls in a Box": [
+    "Array"
+  ],
+  "Restore the Array From Adjacent Pairs": [
+    "Greedy"
+  ],
+  "Can You Eat Your Favorite Candy on Your Favorite Day?": [
+    "Math"
+  ],
+  "Palindrome Partitioning IV": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "Maximum Subarray Sum After One Operation": [
+    "Dynamic Programming"
+  ],
+  "Sum of Unique Elements": [
+    "Array",
+    "Hash Table"
+  ],
+  "Minimum Length of String After Deleting Similar Ends": [
+    "Two Pointers"
+  ],
+  "Maximum Number of Events That Can Be Attended II": [
+    "Binary Search",
+    "Dynamic Programming"
+  ],
+  "Check if Array Is Sorted and Rotated": [
+    "Array"
+  ],
+  "Maximum Score From Removing Stones": [
+    "Math",
+    "Heap"
+  ],
+  "Largest Merge Of Two Strings": [
+    "Greedy",
+    "Suffix Array"
+  ],
+  "Closest Subsequence Sum": [
+    "Divide and Conquer",
+    "Meet in the Middle"
+  ],
+  "Design Most Recently Used Queue": [
+    "Array",
+    "Design",
+    "Dequeue"
+  ],
+  "Minimum Changes To Make Alternating Binary String": [
+    "Array",
+    "Greedy"
+  ],
+  "Count Number of Homogenous Substrings": [
+    "String",
+    "Greedy"
+  ],
+  "Minimum Limit of Balls in a Bag": [
+    "Binary Search",
+    "Heap"
+  ],
+  "Minimum Degree of a Connected Trio in a Graph": [
+    "Graph"
+  ],
+  "Buildings With an Ocean View": [
+    "Greedy"
+  ],
+  "Longest Nice Substring": [
+    "String"
+  ],
+  "Form Array by Concatenating Subarrays of Another Array": [
+    "Array",
+    "Greedy"
+  ],
+  "Map of Highest Peak": [
+    "Breadth-first Search",
+    "Graph"
+  ],
+  "Tree of Coprimes": [
+    "Math",
+    "Tree",
+    "Depth-first Search",
+    "Breadth-first Search"
+  ],
+  "Merge Strings Alternately": [
+    "String"
+  ],
+  "Minimum Number of Operations to Move All Balls to Each Box": [
+    "Array",
+    "Greedy"
+  ],
+  "Maximum Score from Performing Multiplication Operations": [
+    "Dynamic Programming"
+  ],
+  "Maximize Palindrome Length From Subsequences": [
+    "Dynamic Programming"
+  ],
+  "Sort Features by Popularity": [
+    "Hash Table",
+    "Sort"
+  ],
+  "Count Items Matching a Rule": [
+    "Array",
+    "String"
+  ],
+  "Closest Dessert Cost": [
+    "Greedy"
+  ],
+  "Equal Sum Arrays With Minimum Number of Operations": [
+    "Greedy"
+  ],
+  "Car Fleet II": [
+    "Math"
+  ],
+  "Shortest Path in a Hidden Grid": [
+    "Depth-first Search",
+    "Breadth-first Search",
+    "Graph"
+  ],
+  "Find Nearest Point That Has the Same X or Y Coordinate": [
+    "Array"
+  ],
+  "Check if Number is a Sum of Powers of Three": [
+    "Math",
+    "Backtracking",
+    "Recursion"
+  ],
+  "Sum of Beauty of All Substrings": [
+    "Hash Table",
+    "String"
+  ],
+  "Count Pairs Of Nodes": [
+    "Graph"
+  ],
+  "Check if Binary String Has at Most One Segment of Ones": [
+    "Greedy"
+  ],
+  "Minimum Elements to Add to Form a Given Sum": [
+    "Greedy"
+  ],
+  "Number of Restricted Paths From First to Last Node": [
+    "Dynamic Programming",
+    "Graph"
+  ],
+  "Make the XOR of All Segments Equal to Zero": [
+    "Dynamic Programming"
+  ],
+  "Maximize the Beauty of the Garden": [
+    "Greedy"
+  ],
+  "Check if One String Swap Can Make Strings Equal": [
+    "String"
+  ],
+  "Find Center of Star Graph": [
+    "Graph"
+  ],
+  "Maximum Average Pass Ratio": [
+    "Heap"
+  ],
+  "Maximum Score of a Good Subarray": [
+    "Greedy"
+  ],
+  "Count Pairs of Equal Substrings With Minimum Difference": [
+    "String",
+    "Greedy"
+  ],
+  "Second Largest Digit in a String": [
+    "String"
+  ],
+  "Design Authentication Manager": [
+    "Hash Table",
+    "Design"
+  ],
+  "Maximum Number of Consecutive Values You Can Make": [
+    "Greedy"
+  ],
+  "Maximize Score After N Operations": [
+    "Dynamic Programming",
+    "Backtracking",
+    "Recursion"
+  ],
+  "Maximum Ascending Subarray Sum": [
+    "Two Pointers"
+  ],
+  "Number of Orders in the Backlog": [
+    "Heap",
+    "Greedy"
+  ],
+  "Maximum Value at a Given Index in a Bounded Array": [
+    "Binary Search",
+    "Greedy"
+  ],
+  "Count Pairs With XOR in a Range": [
+    "Trie"
+  ],
+  "Minimum Number of Operations to Reinitialize a Permutation": [
+    "Array",
+    "Greedy"
+  ],
+  "Evaluate the Bracket Pairs of a String": [
+    "Hash Table",
+    "String"
+  ],
+  "Maximize Number of Nice Divisors": [
+    "Math"
+  ],
+  "Minimum Path Cost in a Hidden Grid": [
+    "Heap",
+    "Depth-first Search",
+    "Graph"
+  ],
+  "Determine Color of a Chessboard Square": [
+    "String"
+  ],
+  "Sentence Similarity III": [
+    "String"
+  ],
+  "Count Nice Pairs in an Array": [
+    "Array",
+    "Hash Table"
+  ],
+  "Maximum Number of Groups Getting Fresh Donuts": [
+    "Dynamic Programming"
+  ],
+  "Truncate Sentence": [
+    "String"
+  ],
+  "Finding the Users Active Minutes": [
+    "Hash Table"
+  ],
+  "Minimum Absolute Sum Difference": [
+    "Binary Search",
+    "Greedy"
+  ],
+  "Number of Different Subsequences GCDs": [
+    "Math"
+  ],
+  "Maximum Number of Accepted Invitations": [
+    "Graph"
+  ],
+  "Sign of the Product of an Array": [
+    "Math"
+  ],
+  "Find the Winner of the Circular Game": [
+    "Array"
+  ],
+  "Minimum Sideway Jumps": [
+    "Dynamic Programming",
+    "Breadth-first Search"
+  ],
+  "Finding MK Average": [
+    "Heap",
+    "Design",
+    "Queue"
+  ]
+}
