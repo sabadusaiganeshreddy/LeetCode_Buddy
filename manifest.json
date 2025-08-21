@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "LeetCode Buddy",
+  "version": "1.0.0",
+  "description": "LeetCode profile analytics, focus topics, tailored problem suggestions, and in-problem rating + similar problems.",
+  "permissions": ["cookies", "storage"],
+  "host_permissions": [
+    "https://leetcode.com/*",
+    "https://raw.githubusercontent.com/*"
+  ],
+  "background": {
+    "service_worker": "src/background.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://leetcode.com/*"],
+      "js": ["vendor/chart.umd.min.js", "src/content.js"],
+      "css": ["styles/styles.css"],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["styles/*", "vendor/*"],
+      "matches": ["https://leetcode.com/*"]
+    }
+  ],
+  "minimum_chrome_version": "114"
+}
