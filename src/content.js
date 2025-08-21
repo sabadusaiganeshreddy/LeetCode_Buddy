@@ -19,6 +19,8 @@ const RATING_SOURCES = [
 let problemRatingsMap = null; // Map(slug -> { slug, rating, title })
 let chartInstances = { rating: null, tags: null };
 
+const KAGGLE_TAGS_URL = chrome.runtime.getURL('data/kaggle_tags.json');
+
 // =========================
 // Storage helpers
 // =========================
@@ -56,6 +58,48 @@ function getUsername() {
   if (p[0] === 'profile' && p[1]) return p[1];
   if (p.length === 1) return p[0];
   return null;
+}
+
+function parseTopicTags(raw) {
+  if (!raw) return [];
+  // split on comma/semicolon, remove "1+"/"2+", trim and normalize spacing/case
+  return raw
+    .split(/[;,]/g)
+    .map(s => s.replace(/\b\d\+\b/g, '').trim())
+    .filter(Boolean)
+    .map(s => s.replace(/\s+/g, ' '))
+    .map(s => s[0]?.toUpperCase() + s.slice(1)); // Title Case-ish
+}
+
+function linkToSlug(url) {
+  const m = (url || '').match(/leetcode\.com\/problems\/([^\/?#]+)/i);
+  return m ? m[1].toLowerCase() : null;
+}
+
+async function loadKaggleTagMap() {
+  try {
+    const r = await fetch(KAGGLE_TAGS_URL);
+    if (!r.ok) return new Map();
+    const data = await r.json();
+
+    // Support both formats
+    if (!Array.isArray(data)) {
+      // Option A: { "slug": ["Tag1","Tag2"] }
+      return new Map(Object.entries(data).map(([slug, tags]) => [slug.toLowerCase(), tags]));
+    }
+
+    // Option B: array of rows
+    const map = new Map();
+    for (const row of data) {
+      const slug = linkToSlug(row.Question_Link) || (row.Slug?.toLowerCase());
+      if (!slug) continue;
+      const tags = Array.isArray(row.Topic_tags) ? row.Topic_tags : parseTopicTags(row.Topic_tags);
+      if (tags.length) map.set(slug, tags);
+    }
+    return map;
+  } catch {
+    return new Map();
+  }
 }
 
 // =========================
@@ -297,36 +341,62 @@ async function queryByTag(tag, limitEach = 100) {
 
 // Fetch full question list with tags and cache slug -> [tags]
 async function buildTagMap() {
-  // try cache first
   const { [LS.TAGMAP]: cached } = await storageGet([LS.TAGMAP]);
-  if (Array.isArray(cached) && cached.length) {
-    return new Map(cached);
-  }
+  if (Array.isArray(cached) && cached.length) return new Map(cached);
 
-  const Q = `
-    query problemsetAll($skip:Int!, $limit:Int!) {
+  // 1) Seed from Kaggle (instant)
+  let tagMap = await loadKaggleTagMap();
+
+  // 2) Overlay with GraphQL (authoritative, may add/refresh)
+  const Q_A = `
+    query Q_A($skip:Int!, $limit:Int!) {
       questionList(skip:$skip, limit:$limit, filters:{}) {
         data { titleSlug topicTags { name } }
       }
     }`;
+  const Q_B = `
+    query Q_B($categorySlug:String, $skip:Int!, $limit:Int!, $filters: QuestionListFilterInput) {
+      problemsetQuestionList(categorySlug:$categorySlug, skip:$skip, limit:$limit, filters:$filters) {
+        questions { titleSlug topicTags { name } }
+      }
+    }`;
 
-  const map = new Map();
-  for (let skip = 0; skip < 5000; skip += 50) { // safety upper-bound
-    const j = await gql(Q, { skip, limit: 50 });
-    const arr = j?.data?.questionList?.data || [];
-    if (!arr.length) break;
-    for (const q of arr) {
-      const slug = (q?.titleSlug || "").toLowerCase();
-      const tags = (q?.topicTags || []).map(t => t.name);
-      if (slug) map.set(slug, tags);
+  async function overlayWithQueryA() {
+    for (let skip = 0; skip < 5000; skip += 50) {
+      const j = await gql(Q_A, { skip, limit: 50 });
+      const arr = j?.data?.questionList?.data || [];
+      if (!arr.length) break;
+      for (const q of arr) {
+        const slug = (q?.titleSlug || '').toLowerCase();
+        if (!slug) continue;
+        const tags = (q?.topicTags || []).map(t => t.name);
+        if (tags.length) tagMap.set(slug, tags);
+      }
+      if (arr.length < 50) break;
     }
-    if (arr.length < 50) break;
   }
 
-  if (map.size) {
-    await storageSet({ [LS.TAGMAP]: Array.from(map.entries()) });
+  async function overlayWithQueryB() {
+    for (let skip = 0; skip < 5000; skip += 50) {
+      const j = await gql(Q_B, { categorySlug: "all-code-essentials", skip, limit: 50, filters: {} });
+      const arr = j?.data?.problemsetQuestionList?.questions || [];
+      if (!arr.length) break;
+      for (const q of arr) {
+        const slug = (q?.titleSlug || '').toLowerCase();
+        if (!slug) continue;
+        const tags = (q?.topicTags || []).map(t => t.name);
+        if (tags.length) tagMap.set(slug, tags);
+      }
+      if (arr.length < 50) break;
+    }
   }
-  return map;
+
+  await overlayWithQueryA();
+  if (tagMap.size === 0) await overlayWithQueryB();
+
+  // 3) Cache for future loads
+  if (tagMap.size) await storageSet({ [LS.TAGMAP]: Array.from(tagMap.entries()) });
+  return tagMap;
 }
 
 // Ensure solved[] has tags; if many are missing, hydrate from tag map
