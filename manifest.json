@@ -22,7 +22,7 @@
   ],
   "web_accessible_resources": [
     {
-      "resources": ["styles/*", "vendor/*"],
+      "resources": ["styles/*", "vendor/*", "data/*"],
       "matches": ["https://leetcode.com/*"]
     }
   ],
